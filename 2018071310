@@ -1,0 +1,36 @@
+The fourth paradigm
+
+Gordon Bell
+Data science work flow:
+data capture
+curate
+	find the right data structures
+	adding schema and necessary metadata for intepretion
+	uncurated data is guaranteed to be lost, we need to choose which data worth living forever, and what metadata should be distilled from it.(reverse common sense)
+analysis
+	use of database, which should be the location of the data itself not only a place to store it. A good database design for a given discipline should able to answer key 20 questions that scientists ask.(reverse common sense)
+	analysis
+	modeling
+	visualization
+
+Jim Gray
+Software cost including capital and human resource is far exceeding hardware cost now.
+
+Feff Dozier, William B. Gail
+The Emerging Science of Environmental Applications
+*	Need driven versus curiosity driven
+* Externally constrained
+	 Applications science must be prepared to inform actions subject to these external drivers, not according to academic schedules based on when and how the best knowledge can be obtained.
+* Consequential and recursive
+	 For example, the more we knew in the past about locations of fish populations, the more the populations were overfished; our original knowledge about them became rapidly outdated through our own actions.
+* Useful even when incomplete
+	New means of making effective use of partial knowledge must be developed, including robust inference engines and statistical interpretation.
+* Scalable
+* Robust
+* Data intensive
+	New applications-appropriate sources must be identified, and new ways  of observing (including the use of communities as data gatherers) must be  developed.
+
+
+James R. Hunt, Dennis D. Baldocchi, Catharine Van Ingen
+Redefining Ecological  Science Using Data
+ Science data catalog portals such as SciScope8 and Web services with common data models such as those from the Open Geospatial Consortium9 are evolving.
