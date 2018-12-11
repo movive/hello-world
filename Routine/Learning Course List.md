@@ -6,6 +6,8 @@ Process Visualization with HMI / SCADA (PLC III)
 
 Advanced Programming Paradigms (PLC IV)
 
+Mastering Ansible
+
 Embedded Systems Programming on ARM Cortex-M3/M4 Processor
 
 Learn 5 PLCs in a Day-AB, Siemens, Schneider, Omron & Delta
@@ -30,8 +32,6 @@ Learn to Design Your Own Boards
 
 Mastering Microcontroller with Embedded Driver Development
 
-Mastering Ansible
-
 Hadoop Developer In Real World
 
 Embedded Systems Programming on ARM Cortex-M3/M4 Processor
@@ -43,3 +43,5 @@ The Complete Deep Web Course 2017: Become An Expert!
 Mastering RTOS: Hands on with FreeRTOS, Arduino and STM32Fx
 
 The Complete Wireshark Course: Go from Beginner to Advanced!
+
+Data Warehouse Concepts: Basic to Advanced concepts
