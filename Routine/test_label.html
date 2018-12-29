@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<style type="text/css">
+		body, html{width: 100%;height: 100%;margin:0;font-family:"微软雅黑";}
+		#allmap {height:500px; width: 100%;}
+		#control{width:100%;}
+	</style>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=您的密钥"></script>
+	<title>设置线、面可编辑</title>
+</head>
+<body>
+	<div id="allmap"></div>
+	<div id="control">
+		<button onclick = "polyline.enableEditing();polygon.enableEditing();">开启线、面编辑功能</button>
+		<button onclick = "polyline.disableEditing();polygon.disableEditing();">关闭线、面编辑功能</button>
+	</div>
+</body>
+</html>
+<script type="text/javascript">
+	// 百度地图API功能
+	var map = new BMap.Map("allmap");
+	map.centerAndZoom(new BMap.Point(118.384681, 34.109957), 16, {enableMapClick:false});
+	map.enableScrollWheelZoom();
+
+	var polyline = new BMap.Polyline([
+		new BMap.Point(118.382981, 34.115957),
+		new BMap.Point(118.385681, 34.109957),
+		new BMap.Point(118.386681, 34.109957)
+	], {strokeColor:"blue", strokeWeight:2, strokeOpacity:0.5});   //创建折线
+	map.addOverlay(polyline);   //增加折线
+	var point_info=2;
+    pointls = new BMap.Point(118.383483,34.110932)
+    var marker = new BMap.Marker(pointls)
+    map.addOverlay(marker); 
+    var opts = {
+	  width : 200,     // 信息窗口宽度
+	  height: 100,     // 信息窗口高度
+	  title : "宿迁联盛科技" , // 信息窗口标题
+	  enableMessage:true,//设置允许信息窗发送短息
+	  message:"现在水质是"+point_info+"mg/L。"
+	}
+    
+//	var infoWindow = new BMap.InfoWindow("现在水质是"+point_info+"mg/L。", opts);  // 创建信息窗口对象 
+//	marker.addEventListener("click", function(){          
+//		map.openInfoWindow(infoWindow,pointls); //开启信息窗口
+//	});
+
+	marker.addEventListener("click", function(){          
+		map.openInfoWindow(new BMap.InfoWindow("现在水质是"+point_info+"mg/L。", opts),pointls); //开启信息窗口
+	});
+    var opts1 = {
+	  position : pointls,    // 指定文本标注所在的地理位置
+	  offset   : new BMap.Size(30, -30)    //设置文本偏移量
+	}
+   function label_content(content){
+		return "现在水质是"+content+"mg/L。";
+	}
+	var label = new BMap.Label(label_content(point_info), opts1);  // 创建文本标注对象
+		label.setStyle({
+			 color : "red",
+			 fontSize : "12px",
+			 height : "20px",
+			 lineHeight : "20px",
+			 fontFamily:"微软雅黑"
+		 });
+	map.addOverlay(label);   
+ /*   setTimeout(function(){
+        point_info=10;
+		  label.setContent(label_content(point_info));
+ }, 6000);
+ setTimeout(function(){
+    point_info=20;
+	 label.setContent(label_content(point_info));
+ }, 12000);
+ setTimeout(function(){
+    point_info=30;
+	 label.setContent(label_content(point_info));
+ }, 18000);
+ setTimeout(function(){
+    point_info=40;
+	 label.setContent(label_content(point_info));
+ }, 24000);
+ setTimeout(function(){
+    point_info=50;
+	 label.setContent(label_content(point_info));
+ }, 30000);
+ setTimeout(function(){
+    point_info=60;
+	 label.setContent(label_content(point_info));
+ }, 36000);
+*/
+var timer=1;
+var interval=1;
+setInterval(function(){
+	label.setContent(label_content(0.7-timer*0.3));
+	timer=timer+interval;
+	if (timer>9){
+		interval=-1
+	}
+	if (timer<1){
+		interval=1
+	}
+},1000)
+</script>

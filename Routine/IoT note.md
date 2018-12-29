@@ -69,3 +69,5 @@ ba4f95a13b98040d668291289741abb4
 
 movive
 42512f40b0328d4d9f96a5f774c0fe1c
+
+http://lbsyun.baidu.com/jsdemo.htm#c2_3

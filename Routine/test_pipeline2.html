@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<style type="text/css">
+		body, html{width: 100%;height: 100%;margin:0;font-family:"微软雅黑";}
+		#allmap {height:100%; width: 100%;}
+	</style>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=您的密钥"></script>
+	<title>宿迁水质地图</title>
+</head>
+<body>
+	<div id="allmap"></div>
+</body>
+</html>
+<script type="text/javascript">
+    // 带方向折线
+	var map = new BMap.Map("allmap", {enableMapClick:false});
+	map.centerAndZoom(new BMap.Point(118.384681, 34.109957), 15);
+	map.enableScrollWheelZoom();     
+  	map.addControl(new BMap.MapTypeControl({
+		mapTypes:[
+            BMAP_NORMAL_MAP,
+            BMAP_HYBRID_MAP
+        ]}));	  
+  	map.addEventListener("click",function(e){
+		alert(e.point.lng + "," + e.point.lat);
+	});
+/*  var sy = new BMap.Symbol(BMap_Symbol_SHAPE_BACKWARD_OPEN_ARROW, {
+    scale: 0.6,//图标缩放大小
+    strokeColor:'#fff',//设置矢量图标的线填充颜色
+    strokeWeight: '2',//设置线宽
+});
+var icons = new BMap.IconSequence(sy,'' , '30', false);*/
+// 创建polyline对象
+/*  var poi_style = {
+   enableEditing: false,//是否启用线编辑，默认为false
+   enableClicking: false,//是否响应点击事件，默认为true
+   icons:[icons],
+   strokeWeight:'8',//折线的宽度，以像素为单位
+   strokeOpacity: 0.8,//折线的透明度，取值范围0 - 1
+   strokeColor:"#18a45b" //折线颜色
+};*/
+
+    var pois = [[
+	new BMap.Point(118.356741,34.116145), //瑞优赛福资源再生科技有限公司到集水点1
+	new BMap.Point(118.356905,34.117937), 
+	new BMap.Point(118.360588,34.117862)
+],[
+    new BMap.Point(118.362567,34.115525), //腾信纸业有限公司到集水点1
+	new BMap.Point(118.360422,34.115666), 
+	new BMap.Point(118.360588,34.117862)
+],[
+    new BMap.Point(118.373104,34.116283), //中油优艺环保科技有限公司到集水点1
+	new BMap.Point(118.371296,34.116308),
+	new BMap.Point(118.370452,34.112079),
+  	new BMap.Point(118.359924,34.112841),
+	new BMap.Point(118.360445,34.117885)
+],[
+    new BMap.Point(118.362522,34.117404), //宿迁虹光化学工业有限公司到集水点1
+	new BMap.Point(118.360723,34.117556),
+	new BMap.Point(118.360741,34.117848)
+],[
+    new BMap.Point(118.378018,34.117434), //振兴化工有限公司到集水点1
+	new BMap.Point(118.375662,34.117481),
+	new BMap.Point(118.375267,34.111623),
+    new BMap.Point(118.359762,34.112714),
+    new BMap.Point(118.360283,34.11784)
+],[
+    new BMap.Point(118.374564,34.109853), //江苏阿尔法药业有限公司到集水点1
+	new BMap.Point(118.374755,34.111612),
+	new BMap.Point(118.359636,34.112603),
+    new BMap.Point(118.36013,34.117848)
+],[
+    new BMap.Point(118.360283,34.11784), //集水点1到水厂
+	new BMap.Point(118.37568,34.117855),
+    new BMap.Point(118.37877,34.117579),
+    new BMap.Point(118.381483,34.117003),  
+    new BMap.Point(118.381496,34.116779)
+],[
+    new BMap.Point(118.387479,34.113006), //晨阳医药到集水点2
+    new BMap.Point(118.390156,34.112527),
+    new BMap.Point(118.391809,34.115169)
+],[
+    new BMap.Point(118.395977,34.11462), //江苏中煦高分子材料有限公司到集水点2
+    new BMap.Point(118.395991,34.114825),
+    new BMap.Point(118.391957,34.115505),
+    new BMap.Point(118.391876,34.11527)
+],[
+    new BMap.Point(118.396386,34.112864), //江苏万祥锌业有限公司到集水点2
+    new BMap.Point(118.395227,34.113166),
+    new BMap.Point(118.395856,34.114773),
+    new BMap.Point(118.39202,34.115415),  
+    new BMap.Point(118.391926,34.115236)
+],[
+    new BMap.Point(118.391876,34.115161), //集水点2到水厂
+	new BMap.Point(118.388364,34.109419),
+    new BMap.Point(118.382076,34.111287),
+    new BMap.Point(118.379615,34.111526),  
+    new BMap.Point(118.384052,34.116308),  
+    new BMap.Point(118.381496,34.116779)
+]];
+var polyline = [];
+var marks = [];
+var myIcon = BMap.Icon("http://api.map.baidu.com/img/markers.png", new BMap.Size(10, 25), {
+                        offset: new BMap.Size(0, 0), // 指定定位位置
+                       imageOffset: new BMap.Size(0, 25 - 10 * 50) // 设置图片偏移
+                    });
+        var marker=new BMap.Marker(new BMap.Point(118.381496,34.116779),{icon:myIcon});
+      map.addOverlay(marker);  
+	  for(count = 0; count < pois.length; count++) {
+      marks[count] = new BMap.Marker(pois[count][0]);
+var sy = new BMap.Symbol(BMap_Symbol_SHAPE_BACKWARD_OPEN_ARROW, {
+    scale: 0.6,//图标缩放大小
+    strokeColor:'#fff',//设置矢量图标的线填充颜色
+    strokeWeight: '2',//设置线宽
+});
+var icons = new BMap.IconSequence(sy,'' , '30', false);
+var poi_style = {
+    enableEditing: false,//是否启用线编辑，默认为false
+    enableClicking: false,//是否响应点击事件，默认为true
+    icons:[icons],
+    strokeWeight:'8',//折线的宽度，以像素为单位
+    strokeOpacity: 0.8,//折线的透明度，取值范围0 - 1
+    strokeColor:"#18a45b" //折线颜色
+};
+	  polyline[count] =new BMap.Polyline(pois[count], poi_style);	
+      map.addOverlay(marks[count]);        
+      map.addOverlay(polyline[count]);  
+  }
+        //增加折线
+</script>
