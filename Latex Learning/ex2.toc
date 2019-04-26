@@ -1,0 +1,5 @@
+\babel@toc {english}{}
+\contentsline {part}{\numberline {I}第一章}{5}% 
+\contentsline {chapter}{\numberline {1}开端}{7}% 
+\contentsline {section}{\numberline {1.1}第一节}{7}% 
+\contentsline {section}{\numberline {1.2}另一节}{7}% 

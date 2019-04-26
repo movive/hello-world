@@ -1,0 +1,698 @@
+PWD c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis
+INPUT c:/texlive/2018/texmf.cnf
+INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.tex
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.log
+INPUT c:/texlive/2018/texmf-dist/tex/latex/silence/silence.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/silence/silence.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrreprt.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrreprt.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/tocbasic.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/tocbasic.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis-config.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis-config.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2018/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/nul:
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/nul:.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexspa.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexspa.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+INPUT c:/Windows/Fonts/msyh.ttc
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2018/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd
+INPUT c:/texlive/2018/texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-german/ngerman.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-german/ngerman.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-english/american.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-english/american.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-dm.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-compat.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-natbib.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-natbib.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrhack.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrhack.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/xpatch/xpatch.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/xpatch/xpatch.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/acronym/acronym.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/acronym/acronym.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/bigfoot/suffix.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/bigfoot/suffix.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/listings.hak
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/listings.hak
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/mathpazo.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/mathpazo.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/bera/beramono.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/bera/beramono.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsfonts/ueur.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsfonts/ueur.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/amsfonts/euler/eurb10.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mparhack/mparhack.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mparhack/mparhack.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlayer.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlayer.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrtime.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrtime.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/prelim2e.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/prelim2e.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.aux
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/t1pplj.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/t1pplj.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis-blx.bib
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.bbl
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.bbl
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.bbl
+INPUT c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.pdf
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/bookmark.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/bookmark.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong49.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong49.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/omlzplm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/omlzplm.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/omszplm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/omszplm.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/omxzplm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/omxzplm.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplrc9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong49.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong49.tfm
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/TFZsuperellipse_bw.pdf
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/TFZsuperellipse_bw.pdf
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/TFZsuperellipse_bw.pdf
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplrc9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplri9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplri9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrij8r.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.tex
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/bera/t1fvm.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/bera/t1fvm.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmr8t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/bera/fvmr8t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplri9d.tfm
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis1-blx.aux
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis1-blx.aux
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplri9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrij8r.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplri9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7m.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7y.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7v.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplri9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc8r.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.toc
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.toc
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.toc
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lof
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lof
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lof
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lot
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lot
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lot
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lol
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lol
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lol
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmr8t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/bera/fvmr8t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmro8t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplrc9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplrc9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplr8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/bera/fvmro8t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmro8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplb9d.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplb9d.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplb8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmb.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplbj8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmr8t.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/bera/fvmr8t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/bera/fvmr8r.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_1.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_1.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_1.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_2.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_2.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_2.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_3.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_3.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_3.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_4.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_4.jpg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_4.jpg
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/mathpazo/zplmr7t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/mathpazo/zplmr7y.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/mathpazo/zplmr7m.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmri.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/adobe/palatino/pplri8r.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/mathpazo/zplmr7v.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/mathpazo/fplmr.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/adobe/palatino/pplr9t.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/vf/public/mathpazo/zplmr7y.vf
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.tex
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.tex
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.run.xml
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.run.xml
+INPUT c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/public/bera/fvmro8a.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb
+INPUT c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb

@@ -1,0 +1,1 @@
+若想在latex中使用中文，需要加载ctex包，并用utf-8编码，在`\documentclass[paper=a4, oneside, fontsize=12pt, parskip=full]{scrartcl}`后面，`\begin{document}`前面，加上`\usepackage[UTF8]{ctex}`即可。

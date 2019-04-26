@@ -1,0 +1,2316 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.20)  21 APR 2019 23:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.tex"
+(c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.tex
+LaTeX2e <2018-12-01>
+(c:/texlive/2018/texmf-dist/tex/latex/silence/silence.sty
+Package: silence 2012/07/02 v1.5b Selective filtering of warnings and error messages
+\sl@Save=\count80
+\sl@StateNumber=\count81
+\sl@MessageCount=\count82
+\sl@Casualties=\count83
+\sl@Filter=\toks14
+\sl@Message=\toks15
+\sl@UnexpandedMessage=\toks16
+\sl@Mess@ge=\toks17
+\sl@WarningCount=\count84
+\sl@WarningNumber=\count85
+\sl@WarningCasualties=\count86
+\sl@TempBOW=\toks18
+\sl@BankOfWarnings=\toks19
+LaTeX Info: Redefining \GenericWarning on input line 433.
+\sl@ErrorCount=\count87
+\sl@ErrorNumber=\count88
+\sl@ErrorCasualties=\count89
+\sl@TempBOE=\toks20
+\sl@BankOfErrors=\toks21
+LaTeX Info: Redefining \GenericError on input line 601.
+) (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrreprt.cls
+Document Class: scrreprt 2019/02/01 v3.26b KOMA-Script document class (report)
+(c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+) (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+))) (c:/texlive/2018/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box27
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 136.
+Class scrreprt Info: You've used standard option `openright'.
+(scrreprt)           This is correct!
+(scrreprt)           Internally I'm using `open=right'.
+(scrreprt)           If you'd like to set the option with \KOMAoptions,
+(scrreprt)           you'd have to use `open=right' there
+(scrreprt)           instead of `openright', too.
+Class scrreprt Info: File `scrsize11pt.clo' used to setup font sizes on input line 2373.
+ (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2019/02/01 v3.26b KOMA-Script font size class option (11pt)
+) (c:/texlive/2018/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count90
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 44.38632pt
+(typearea)              \oddsidemargin  = 0.28453pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 514.20023pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1715.
+)
+\c@part=\count91
+\c@chapter=\count92
+\c@section=\count93
+\c@subsection=\count94
+\c@subsubsection=\count95
+\c@paragraph=\count96
+\c@subparagraph=\count97
+\scr@dte@chapter@maxnumwidth=\skip47
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\chapter on input line 5305.
+\scr@dte@section@maxnumwidth=\skip48
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\section on input line 5315.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\section on input line 5315.
+\scr@dte@part@maxnumwidth=\skip49
+Class scrreprt Info: using compatibility default `afterindent=true'
+(scrreprt)           for `\part on input line 5324.
+\scr@dte@subsection@maxnumwidth=\skip50
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsection on input line 5334.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsection on input line 5334.
+\scr@dte@subsubsection@maxnumwidth=\skip51
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subsubsection on input line 5344.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subsubsection on input line 5344.
+\scr@dte@paragraph@maxnumwidth=\skip52
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\paragraph on input line 5354.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\paragraph on input line 5354.
+\scr@dte@subparagraph@maxnumwidth=\skip53
+Class scrreprt Info: using compatibility default `runin=bysign'
+(scrreprt)           for `\subparagraph on input line 5364.
+Class scrreprt Info: using compatibility default `afterindent=bysign'
+(scrreprt)           for `\subparagraph on input line 5364.
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box28
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6613.
+\scr@dte@figure@maxnumwidth=\skip56
+\c@figure=\count98
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6630.
+\scr@dte@table@maxnumwidth=\skip57
+\c@table=\count99
+Class scrreprt Info: Redefining `\numberline' on input line 6799.
+\bibindent=\dimen102
+) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis-config.tex (c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex.sty (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2019-02-15 L3 programming layer (loader) 
+ (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2019-02-15 L3 programming layer (code)
+\c_max_int=\count100
+\l_tmpa_int=\count101
+\l_tmpb_int=\count102
+\g_tmpa_int=\count103
+\g_tmpb_int=\count104
+\g__kernel_prg_map_int=\count105
+\c_log_iow=\count106
+\l_iow_line_count_int=\count107
+\l__iow_line_target_int=\count108
+\l__iow_one_indent_int=\count109
+\l__iow_indent_int=\count110
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip58
+\c_max_skip=\skip59
+\l_tmpa_skip=\skip60
+\l_tmpb_skip=\skip61
+\g_tmpa_skip=\skip62
+\g_tmpb_skip=\skip63
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count111
+\l__intarray_loop_int=\count112
+\c__intarray_sp_dim=\dimen109
+\g__intarray_font_int=\count113
+\c__fp_leading_shift_int=\count114
+\c__fp_middle_shift_int=\count115
+\c__fp_trailing_shift_int=\count116
+\c__fp_big_leading_shift_int=\count117
+\c__fp_big_middle_shift_int=\count118
+\c__fp_big_trailing_shift_int=\count119
+\c__fp_Bigg_leading_shift_int=\count120
+\c__fp_Bigg_middle_shift_int=\count121
+\c__fp_Bigg_trailing_shift_int=\count122
+\c__kernel_randint_max_int=\count123
+\g__fp_array_int=\count124
+\l__fp_array_loop_int=\count125
+\l__sort_length_int=\count126
+\l__sort_min_int=\count127
+\l__sort_top_int=\count128
+\l__sort_max_int=\count129
+\l__sort_true_max_int=\count130
+\l__sort_block_int=\count131
+\l__sort_begin_int=\count132
+\l__sort_end_int=\count133
+\l__sort_A_int=\count134
+\l__sort_B_int=\count135
+\l__sort_C_int=\count136
+\l__tl_analysis_normal_int=\count137
+\l__tl_analysis_index_int=\count138
+\l__tl_analysis_nesting_int=\count139
+\l__tl_analysis_type_int=\count140
+\l__regex_internal_a_int=\count141
+\l__regex_internal_b_int=\count142
+\l__regex_internal_c_int=\count143
+\l__regex_balance_int=\count144
+\l__regex_group_level_int=\count145
+\l__regex_mode_int=\count146
+\c__regex_cs_in_class_mode_int=\count147
+\c__regex_cs_mode_int=\count148
+\l__regex_catcodes_int=\count149
+\l__regex_default_catcodes_int=\count150
+\c__regex_catcode_D_int=\count151
+\c__regex_catcode_S_int=\count152
+\c__regex_catcode_L_int=\count153
+\c__regex_catcode_O_int=\count154
+\c__regex_catcode_A_int=\count155
+\c__regex_all_catcodes_int=\count156
+\l__regex_show_lines_int=\count157
+\l__regex_min_state_int=\count158
+\l__regex_max_state_int=\count159
+\l__regex_left_state_int=\count160
+\l__regex_right_state_int=\count161
+\l__regex_capturing_group_int=\count162
+\l__regex_min_pos_int=\count163
+\l__regex_max_pos_int=\count164
+\l__regex_curr_pos_int=\count165
+\l__regex_start_pos_int=\count166
+\l__regex_success_pos_int=\count167
+\l__regex_curr_char_int=\count168
+\l__regex_curr_catcode_int=\count169
+\l__regex_last_char_int=\count170
+\l__regex_case_changed_char_int=\count171
+\l__regex_curr_state_int=\count172
+\l__regex_step_int=\count173
+\l__regex_min_active_int=\count174
+\l__regex_max_active_int=\count175
+\l__regex_replacement_csnames_int=\count176
+\l__regex_match_count_int=\count177
+\l__regex_min_submatch_int=\count178
+\l__regex_submatch_int=\count179
+\l__regex_zeroth_submatch_int=\count180
+\g__regex_trace_regex_int=\count181
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+\l__box_top_dim=\dimen110
+\l__box_bottom_dim=\dimen111
+\l__box_left_dim=\dimen112
+\l__box_right_dim=\dimen113
+\l__box_top_new_dim=\dimen114
+\l__box_bottom_new_dim=\dimen115
+\l__box_left_new_dim=\dimen116
+\l__box_right_new_dim=\dimen117
+\l__box_internal_box=\box34
+\l__coffin_internal_box=\box35
+\l__coffin_internal_dim=\dimen118
+\l__coffin_offset_x_dim=\dimen119
+\l__coffin_offset_y_dim=\dimen120
+\l__coffin_x_dim=\dimen121
+\l__coffin_y_dim=\dimen122
+\l__coffin_x_prime_dim=\dimen123
+\l__coffin_y_prime_dim=\dimen124
+\c_empty_coffin=\box36
+\l__coffin_aligned_coffin=\box37
+\l__coffin_aligned_internal_coffin=\box38
+\l_tmpa_coffin=\box39
+\l_tmpb_coffin=\box40
+\g_tmpa_coffin=\box41
+\g_tmpb_coffin=\box42
+\c__coffin_empty_coffin=\box43
+\l__coffin_display_coffin=\box44
+\l__coffin_display_coord_coffin=\box45
+\l__coffin_display_pole_coffin=\box46
+\l__coffin_display_offset_dim=\dimen125
+\l__coffin_display_x_dim=\dimen126
+\l__coffin_display_y_dim=\dimen127
+\g__file_internal_ior=\read1
+\l__coffin_bounding_shift_dim=\dimen128
+\l__coffin_left_corner_dim=\dimen129
+\l__coffin_right_corner_dim=\dimen130
+\l__coffin_bottom_corner_dim=\dimen131
+\l__coffin_top_corner_dim=\dimen132
+\l__coffin_scaled_total_height_dim=\dimen133
+\l__coffin_scaled_width_dim=\dimen134
+\l__seq_internal_a_int=\count182
+\l__seq_internal_b_int=\count183
+) (c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2019-02-15 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count184
+))
+Package: ctex 2018/05/02 v2.4.14 Chinese adapter in LaTeX (CTEX)
+ (c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018-10-17 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count185
+\g__xparse_grabber_int=\count186
+\l__xparse_m_args_int=\count187
+\l__xparse_mandatory_args_int=\count188
+\l__xparse_v_nesting_int=\count189
+) (c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018-10-17 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2018/05/02 v2.4.14 Document and package hooks (CTEX)
+) (c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2018/05/02 v2.4.14 Patching commands (CTEX)
+) (c:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+ (c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+FEFF (decimal 65279)
+))) (c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count190
+\l__ctex_tmp_box=\box47
+\l__ctex_tmp_dim=\dimen135
+\g__ctex_font_size_flag=\count191
+ (c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2018/05/02 v2.4.14 Option configuration file (CTEX)
+) (c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2018/05/02 v2.4.14 (pdf)LaTeX adapter (CTEX)
+ (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+Package: CJKutf8 2015/04/18 4.8.4
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) (c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box48
+) (c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+)) (c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count192
+\CJKpunct@cntb=\count193
+\CJKpunct@cntc=\count194
+\CJKpunct@cntd=\count195
+\CJKpunct@cnte=\count196
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2018/05/01 v2.4.14 Space info for CJKpunct (CTEX)
+) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+ (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+ (c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box49
+\UL@hyphenbox=\box50
+\UL@skip=\skip64
+\UL@hook=\toks25
+\UL@height=\dimen136
+\UL@pe=\count197
+\UL@pixel=\dimen137
+\ULC@box=\box51
+Package: ulem 2012/05/18
+\ULdepth=\dimen138
+)
+\UL@lastkern=\dimen139
+\CJK@skip=\skip65
+)
+\CJK@fntefSkip=\skip66
+\CJK@nest=\count198
+\CJK@fntefDimen=\dimen140
+\CJK@underdotBox=\box52
+\CJK@ULbox=\box53
+\CJK@underanyskip=\dimen141
+)
+\ccwd=\dimen142
+\l__ctex_ccglue_skip=\skip67
+)
+\l__ctex_ziju_dim=\dimen143
+ (c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count199
+\l__zhnum_byte_min_int=\count266
+\l__zhnum_byte_max_int=\count267
+ (c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+File: zhnumber-utf8.cfg 2018/01/28 v2.6 Chinese numerals with UTF8 encoding
+)) (c:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2018/05/02 v2.4.14 Chinese scheme for generic (CTEX)
+ (c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+File: ctex-name-utf8.cfg 2018/05/02 v2.4.14 Caption with encoding UTF8 (CTEX)
+)) (c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2018/05/02 v2.4.14 c5size option (CTEX)
+) (c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2018/05/02 v2.4.14 Windows fonts definition (CTEX)
+ (c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2018/05/02 v2.4.14 Windows fonts definition for Vista or later version (CTEX)
+ (c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2018/05/01 v2.4.14 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd})))) (c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2018/05/02 v2.4.14 Configuration file (CTEX)
+) (c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+) (c:/texlive/2018/texmf-dist/tex/generic/babel-german/ngerman.ldf
+Language: ngerman 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+ (c:/texlive/2018/texmf-dist/tex/generic/babel-german/ngermanb.ldf
+Language: ngermanb 2018/12/08 v2.11 German support for babel (post-1996 orthography)
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count268
+\U@D=\dimen144
+ (c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count269
+)
+Package babel Info: Making " an active character on input line 121.
+)) (c:/texlive/2018/texmf-dist/tex/generic/babel-english/american.ldf
+Language: american 2017/06/06 v3.3r English support from the babel system
+ (c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))) (c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
+ (c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count270
+)
+\csq@reset=\count271
+\csq@gtype=\count272
+\csq@glevel=\count273
+\csq@qlevel=\count274
+\csq@maxlvl=\count275
+\csq@tshold=\count276
+\csq@ltx@everypar=\toks26
+ (c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+ (c:/texlive/2018/texmf-dist/tex/latex/csquotes/csquotes.cfg
+File: csquotes.cfg 
+)) (c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count277
+ (c:/texlive/2018/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count278
+\c@listtotal=\count279
+\c@listcount=\count280
+\c@liststart=\count281
+\c@liststop=\count282
+\c@citecount=\count283
+\c@citetotal=\count284
+\c@multicitecount=\count285
+\c@multicitetotal=\count286
+\c@instcount=\count287
+\c@maxnames=\count288
+\c@minnames=\count289
+\c@maxitems=\count290
+\c@minitems=\count291
+\c@citecounter=\count292
+\c@maxcitecounter=\count293
+\c@savedcitecounter=\count294
+\c@uniquelist=\count295
+\c@uniquename=\count296
+\c@refsection=\count297
+\c@refsegment=\count298
+\c@maxextratitle=\count299
+\c@maxextratitleyear=\count300
+\c@maxextraname=\count301
+\c@maxextradate=\count302
+\c@maxextraalpha=\count303
+\c@abbrvpenalty=\count304
+\c@highnamepenalty=\count305
+\c@lownamepenalty=\count306
+\c@maxparens=\count307
+\c@parenlevel=\count308
+\blx@tempcnta=\count309
+\blx@tempcntb=\count310
+\blx@tempcntc=\count311
+\blx@maxsection=\count312
+\blx@maxsegment@0=\count313
+\blx@notetype=\count314
+\blx@parenlevel@text=\count315
+\blx@parenlevel@foot=\count316
+\blx@sectionciteorder@0=\count317
+\blx@entrysetcounter=\count318
+\labelnumberwidth=\skip68
+\labelalphawidth=\skip69
+\biblabelsep=\skip70
+\bibitemsep=\skip71
+\bibnamesep=\skip72
+\bibinitsep=\skip73
+\bibparsep=\skip74
+\bibhang=\skip75
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\c@mincomprange=\count319
+\c@maxcomprange=\count320
+\c@mincompwidth=\count321
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count322
+\c@savedafterword=\count323
+\c@annotator=\count324
+\c@savedannotator=\count325
+\c@author=\count326
+\c@savedauthor=\count327
+\c@bookauthor=\count328
+\c@savedbookauthor=\count329
+\c@commentator=\count330
+\c@savedcommentator=\count331
+\c@editor=\count332
+\c@savededitor=\count333
+\c@editora=\count334
+\c@savededitora=\count335
+\c@editorb=\count336
+\c@savededitorb=\count337
+\c@editorc=\count338
+\c@savededitorc=\count339
+\c@foreword=\count340
+\c@savedforeword=\count341
+\c@holder=\count342
+\c@savedholder=\count343
+\c@introduction=\count344
+\c@savedintroduction=\count345
+\c@namea=\count346
+\c@savednamea=\count347
+\c@nameb=\count348
+\c@savednameb=\count349
+\c@namec=\count350
+\c@savednamec=\count351
+\c@translator=\count352
+\c@savedtranslator=\count353
+\c@shortauthor=\count354
+\c@savedshortauthor=\count355
+\c@shorteditor=\count356
+\c@savedshorteditor=\count357
+\c@labelname=\count358
+\c@savedlabelname=\count359
+\c@institution=\count360
+\c@savedinstitution=\count361
+\c@lista=\count362
+\c@savedlista=\count363
+\c@listb=\count364
+\c@savedlistb=\count365
+\c@listc=\count366
+\c@savedlistc=\count367
+\c@listd=\count368
+\c@savedlistd=\count369
+\c@liste=\count370
+\c@savedliste=\count371
+\c@listf=\count372
+\c@savedlistf=\count373
+\c@location=\count374
+\c@savedlocation=\count375
+\c@organization=\count376
+\c@savedorganization=\count377
+\c@origlocation=\count378
+\c@savedoriglocation=\count379
+\c@origpublisher=\count380
+\c@savedorigpublisher=\count381
+\c@publisher=\count382
+\c@savedpublisher=\count383
+\c@language=\count384
+\c@savedlanguage=\count385
+\c@origlanguage=\count386
+\c@savedoriglanguage=\count387
+\c@pageref=\count388
+\c@savedpageref=\count389
+\shorthandwidth=\skip76
+\shortjournalwidth=\skip77
+\shortserieswidth=\skip78
+\shorttitlewidth=\skip79
+\shortauthorwidth=\skip80
+\shorteditorwidth=\skip81
+\locallabelnumberwidth=\skip82
+\locallabelalphawidth=\skip83
+\localshorthandwidth=\skip84
+\localshortjournalwidth=\skip85
+\localshortserieswidth=\skip86
+\localshorttitlewidth=\skip87
+\localshortauthorwidth=\skip88
+\localshorteditorwidth=\skip89
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count390
+\c@textcitetotal=\count391
+\c@textcitemaxnames=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
+\c@smartand=\count396
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/blx-natbib.def
+File: blx-natbib.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined, overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count399
+\c@cbx@tempcntb=\count400
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip90
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen145
+)) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+) (c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count401
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count402
+\leftroot@=\count403
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count404
+\DOTSCASE@=\count405
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count406
+\c@MaxMatrixCols=\count407
+\dotsspace@=\muskip17
+\c@parentequation=\count408
+\dspbrk@lvl=\count409
+\tag@help=\toks28
+\row@=\count410
+\column@=\count411
+\maxfields@=\count412
+\andhelp@=\toks29
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks30
+\multlinegap=\skip91
+\multlinetaggap=\skip92
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen154
+\Gin@req@width=\dimen155
+) (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrhack.sty
+Package: scrhack 2019/02/01 v3.26b KOMA-Script package 
+ (c:/texlive/2018/texmf-dist/tex/latex/xpatch/xpatch.sty
+Package: xpatch 2012/10/02 v0.3 Extending etoolbox patching commands
+)) (c:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (c:/texlive/2018/texmf-dist/tex/latex/acronym/acronym.sty
+Package: acronym 2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+ (c:/texlive/2018/texmf-dist/tex/latex/bigfoot/suffix.sty
+Package: suffix 2006/07/15 1.5a Variant command support
+) (c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2018/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count413
+\decimalpart=\count414
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+) (c:/texlive/2018/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\AC@clearlist=\toks32
+) (c:/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
+ (c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen156
+\ar@mcellbox=\box56
+\extrarowheight=\dimen157
+\NC@list=\toks33
+\extratabsurround=\skip93
+\backup@length=\skip94
+\ar@cellbox=\box57
+)
+\TX@col@width=\dimen158
+\TX@old@table=\dimen159
+\TX@old@col=\dimen160
+\TX@target=\dimen161
+\TX@delta=\dimen162
+\TX@cols=\count415
+\TX@ftn=\toks34
+) (c:/texlive/2018/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+ (c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+ (c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen163
+\captionmargin@=\dimen164
+\captionwidth=\dimen165
+\caption@tempdima=\dimen166
+\caption@indent=\dimen167
+\caption@parindent=\dimen168
+\caption@hangindent=\dimen169
+)
+Package caption Info: KOMA-Script document class.
+\c@caption@flags=\count416
+\c@ContinuedFloat=\count417
+)
+\c@KVtest=\count418
+\sf@farskip=\skip95
+\sf@captopadj=\dimen170
+\sf@capskip=\skip96
+\sf@nearskip=\skip97
+\c@subfigure=\count419
+\c@subfigure@save=\count420
+\c@lofdepth=\count421
+\c@subtable=\count422
+\c@subtable@save=\count423
+\c@lotdepth=\count424
+\sf@top=\skip98
+\sf@bottom=\skip99
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count425
+\lst@gtempboxa=\box58
+\lst@token=\toks35
+\lst@length=\count426
+\lst@currlwidth=\dimen171
+\lst@column=\count427
+\lst@pos=\count428
+\lst@lostspace=\dimen172
+\lst@width=\dimen173
+\lst@newlines=\count429
+\lst@lineno=\count430
+\lst@maxwidth=\dimen174
+ (c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count431
+\lst@skipnumbers=\count432
+\lst@framebox=\box59
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package scrhack Info: loading listings hack on input line 139.
+ (c:/texlive/2018/texmf-dist/tex/latex/koma-script/listings.hak
+File: listings.hak 2019/02/01 v3.26b KOMA-Script package (hacking package listings)
+Package tocbasic Info: setting babel extension for `lol' on input line 137.
+Package scrhack Info: redefining \lstlistoflistings on input line 137.
+)
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+ (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2018/09/02 1.7 listings language file
+) (c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis.sty
+Package: classicthesis 2018/06/03 v4.6 Typographic style for a classic-looking thesis
+ (c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (c:/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (c:/texlive/2018/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (c:/texlive/2018/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) (c:/texlive/2018/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+)
+LaTeX Font Info:    Try loading font information for U+eur on input line 202.
+ (c:/texlive/2018/texmf-dist/tex/latex/amsfonts/ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+) (c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2018/01/14 v2.7a Micro-typographical refinements (RS)
+\MT@toks=\toks36
+\MT@count=\count433
+LaTeX Info: Redefining \textls on input line 793.
+\MT@outer@kern=\dimen175
+LaTeX Info: Redefining \textmicrotypecontext on input line 1339.
+\MT@listname@count=\count434
+ (c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2018/01/14 v2.7a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 913.
+LaTeX Info: Redefining \lslig on input line 913.
+\MT@outer@space=\skip100
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (c:/texlive/2018/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2018/01/14 v2.7a microtype main configuration file (RS)
+))
+Package classicthesis Info: A4 paper, Palatino or other on input line 251.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 336.0pt
+(typearea)              \evensidemargin = 92.58438pt
+(typearea)              \oddsidemargin  = 24.38356pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 652.25339pt
+(typearea)              \topmargin      = -40.58768pt
+(typearea)              \headheight     = 15.53937pt
+(typearea)              \headsep        = 24.66217pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 57.54507pt
+(typearea)              \baselineskip   = 16.44145pt
+(typearea)              on input line 251.
+ (c:/texlive/2018/texmf-dist/tex/latex/mparhack/mparhack.sty
+Package: mparhack 2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+) (c:/texlive/2018/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen176
+\lightrulewidth=\dimen177
+\cmidrulewidth=\dimen178
+\belowrulesep=\dimen179
+\belowbottomsep=\dimen180
+\aboverulesep=\dimen181
+\abovetopsep=\dimen182
+\cmidrulesep=\dimen183
+\cmidrulekern=\dimen184
+\defaultaddspace=\dimen185
+\@cmidla=\count435
+\@cmidlb=\count436
+\@aboverulesep=\dimen186
+\@belowrulesep=\dimen187
+\@thisruleclass=\count437
+\@lastruleclass=\count438
+\@thisrulewidth=\dimen188
+) (c:/texlive/2018/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+)
+Package classicthesis Info: Using microtype for character spacing.Make sure your pdflatex is version 1.40 or higher. on input line 321.
+ (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2019/02/01 v3.26b KOMA-Script package (end user interface for scrlayer)
+ (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2019/02/01 v3.26b KOMA-Script package (defining layers and page styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 109.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 2083.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1241.
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1268.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+1: section
+1: chapter
+1: chapter
+1: section
+(c:/texlive/2018/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box60
+\beforetitleunit=\skip101
+\aftertitleunit=\skip102
+\ttl@plus=\dimen189
+\ttl@minus=\dimen190
+\ttl@toksa=\toks37
+\titlewidth=\dimen191
+\titlewidthlast=\dimen192
+\titlewidthfirst=\dimen193
+)
+
+Class scrreprt Warning: Activating an ugly workaround for a missing
+(scrreprt)              feature of package `titlesec` on input line 362.
+
+
+Class scrreprt Warning: Usage of package `tocloft' together
+(scrreprt)              with a KOMA-Script class is not recommended.
+(scrreprt)              I'd suggest to use options like `listof=entryprefix',
+(scrreprt)              commands like `\listoflofentryname' or
+(scrreprt)              `\listoflotentryname', and `\DeclareTOCStyleEntry' or
+(scrreprt)              `\RedeclareSectionCommand' instead of this package,
+(scrreprt)              because it breaks several KOMA-Script features of
+(scrreprt)              the list of figures, list of tables and table of
+(scrreprt)              contents, i.e., options like `listof=numbered',
+(scrreprt)              `listof=flat or `toc=flat', commands like
+(scrreprt)              `\BeforeTOCHead{...}' and `\AfterTOCHead{...}',
+(scrreprt)              `\BeforeStartingTOC{...}' and \AfterStartingTOC{...}',
+(scrreprt)              all features of `\DeclareTOCStyleEntry',
+(scrreprt)              and the ToC entry features of `\DeclareSecionCommand'
+(scrreprt)              and `\RedeclareSectionCommand' of levels
+(scrreprt)              `part', `section', `subsection',
+(scrreprt)              `subsubsection', `paragraph' and `subparagraph'.
+(scrreprt)              Nevertheless, using requested
+(scrreprt)              package `tocloft' on input line 416.
+
+(c:/texlive/2018/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip103
+\cftbeforetoctitleskip=\skip104
+\cftaftertoctitleskip=\skip105
+\cftbeforepartskip=\skip106
+\cftpartnumwidth=\skip107
+\cftpartindent=\skip108
+\cftbeforechapskip=\skip109
+\cftchapindent=\skip110
+\cftchapnumwidth=\skip111
+\cftbeforesecskip=\skip112
+\cftsecindent=\skip113
+\cftsecnumwidth=\skip114
+\cftbeforesubsecskip=\skip115
+\cftsubsecindent=\skip116
+\cftsubsecnumwidth=\skip117
+\cftbeforesubsubsecskip=\skip118
+\cftsubsubsecindent=\skip119
+\cftsubsubsecnumwidth=\skip120
+\cftbeforeparaskip=\skip121
+\cftparaindent=\skip122
+\cftparanumwidth=\skip123
+\cftbeforesubparaskip=\skip124
+\cftsubparaindent=\skip125
+\cftsubparanumwidth=\skip126
+\cftbeforeloftitleskip=\skip127
+\cftafterloftitleskip=\skip128
+\cftbeforefigskip=\skip129
+\cftfigindent=\skip130
+\cftfignumwidth=\skip131
+\cftbeforelottitleskip=\skip132
+\cftafterlottitleskip=\skip133
+\cftbeforetabskip=\skip134
+\cfttabindent=\skip135
+\cfttabnumwidth=\skip136
+\cftbeforesubfigskip=\skip137
+\cftsubfigindent=\skip138
+\cftsubfignumwidth=\skip139
+\cftbeforesubtabskip=\skip140
+\cftsubtabindent=\skip141
+\cftsubtabnumwidth=\skip142
+)
+\newnumberwidth=\skip143
+\beforebibskip=\skip144
+\newchnumberwidth=\skip145
+\figurelabelwidth=\skip146
+
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis.sty:517: Package inputenc Error: Unicode character 图 (U+56FE)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.517 ...th{\figurelabelwidth}{\cftfigpresnum~999}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+\tablelabelwidth=\skip147
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/classicthesis.sty:530: Package inputenc Error: Unicode character 表 (U+8868)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.530 ...dth{\tablelabelwidth}{\cfttabpresnum~999}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+\c@listings=\count439
+\cftbeforelistingsskip=\skip148
+\cftlistingsindent=\skip149
+\cftlistingsnumwidth=\skip150
+\c@loldepth=\count440
+\cftbeforeloltitleskip=\skip151
+\cftafterloltitleskip=\skip152
+\listingslabelwidth=\skip153
+Using KOMA-command "deffootnote" for footnote setup (c:/texlive/2018/texmf-dist/tex/latex/koma-script/scrtime.sty
+Package: scrtime 2019/02/01 v3.26b KOMA-Script package (time of LaTeX run)
+) (c:/texlive/2018/texmf-dist/tex/latex/ms/prelim2e.sty
+Package: prelim2e 2009/05/29 v1.3 prelim2e Package (MS)
+ (c:/texlive/2018/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+Package scrhack Info: hyperref hack deactivated because of
+(scrhack)             detection of KOMA-Script class, that doesn't
+(scrhack)             need that hack, on input line 677.
+ (c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen194
+\Hy@linkcounter=\count441
+\Hy@pagecounter=\count442
+ (c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count443
+ (c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4393.
+ (c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `hyperfootnotes' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count444
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen195
+\Fld@menulength=\count445
+\Field@Width=\dimen196
+\Fld@charsize=\dimen197
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count446
+\c@Item=\count447
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count448
+\c@bookmark@seq@number=\count449
+ (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip154
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 679.
+Package hyperref Info: Option `linktocpage' set `true' on input line 679.
+Package hyperref Info: Option `breaklinks' set `true' on input line 679.
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 192.
+Package hyperref Info: Option `linktocpage' set `true' on input line 192.
+Package hyperref Info: Option `breaklinks' set `true' on input line 192.
+Package hyperref Info: Option `pageanchor' set `true' on input line 192.
+Package hyperref Info: Option `plainpages' set `false' on input line 192.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 192.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 192.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 192.
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'american'.
+Package biblatex Info: Trying to load language 'american'...
+Package biblatex Info: ... file 'american.lbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/american.lbx
+File: american.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+))
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/ngerman.lbx
+File: ngerman.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+ (c:/texlive/2018/texmf-dist/tex/latex/biblatex/lbx/german.lbx
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+)) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.aux (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux))
+\openout1 = `ClassicThesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Try loading font information for T1+pplj on input line 59.
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/t1pplj.fd
+File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
+)
+
+Class scrreprt Warning: discard change of \selectfont.
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 59.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'ascii' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `ClassicThesis-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'ClassicThesis.bbl' found.
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.bbl)
+Package biblatex Info: ... file 'ClassicThesis1-blx.bbl' not found.
+
+No file ClassicThesis1-blx.bbl.
+Package biblatex Info: Reference section=0 on input line 59.
+Package biblatex Info: Reference segment=0 on input line 59.
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count450
+\scratchdimen=\dimen198
+\scratchbox=\box61
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen199
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks39
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count456
+Package scrhack Info: undefining \float@addtolists on input line 59.
+LaTeX Info: Redefining \microtypecontext on input line 59.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (c:/texlive/2018/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+) ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box62
+Package hyperref Info: Link coloring ON on input line 59.
+ (c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ (c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count457
+)
+LaTeX Info: Redefining \ref on input line 59.
+LaTeX Info: Redefining \pageref on input line 59.
+LaTeX Info: Redefining \nameref on input line 59.
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.out)
+\@outlinefile=\write4
+\openout4 = `ClassicThesis.out'.
+
+Class scrreprt Info: loading recommended package `bookmark'.
+(scrreprt)           Using `bookmark' together with `hyperref' is recommended,
+(scrreprt)           because of handling of possible bookmark level gaps.
+(scrreprt)           You can avoid loading `bookmark' with KOMA-Script option
+(scrreprt)           `bookmarkpackage=false' before \begin{document} and
+(scrreprt)           you can avoid this message with `\usepackage{bookmark}'
+(scrreprt)           before \begin{document} on input line 59.
+ (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/bookmark.sty
+Package: bookmark 2016/05/17 v1.26 PDF bookmarks (HO)
+ (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/bkm-pdftex.def
+File: bkm-pdftex.def 2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+Package auxhook Info: \AddLineBeginMainAux comes a little late,
+(auxhook)             because the main .aux file is already opened on input line 164.
+\BKM@id=\count458
+))
+\openout2 = `FrontBackmatter/DirtyTitlepage.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+The third byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Missing = inserted for \ifnum.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+I was expecting to see `<', `=', or `>'. Didn't.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Missing = inserted for \ifnum.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+I was expecting to see `<', `=', or `>'. Didn't.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.tex:8: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.8     \spacedlowsmallcaps{\myName}
+                                     \\ \medskip
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+LaTeX Font Info:    Try loading font information for C70+rm on input line 8.
+(c:/texlive/2018/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2018/05/01 v2.4.14 Chinese font definition (CTEX)
+)
+
+LaTeX Font Warning: Font shape `C70/rm/m/sc' undefined
+(Font)              using `C70/rm/m/n' instead on input line 8.
+
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 8.
+(c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 8.
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 8.
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 8.
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 8.
+ (c:/texlive/2018/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) (c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2018/05/01 v2.4.14 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+) [1
+
+
+]
+\openout2 = `FrontBackmatter/Titlepage.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex [2
+
+
+
+
+]
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+The third byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Missing = inserted for \ifnum.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+I was expecting to see `<', `=', or `>'. Didn't.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Missing = inserted for \ifnum.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+I was expecting to see `<', `=', or `>'. Didn't.
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.tex:19: Improper alphabetic constant.
+<to be read again> 
+                   \protect 
+l.19         \spacedlowsmallcaps{\myName}
+                                         
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+<gfx/TFZsuperellipse_bw.pdf, id=18, 260.5755pt x 203.14595pt>
+File: gfx/TFZsuperellipse_bw.pdf Graphic file (type pdf)
+<use gfx/TFZsuperellipse_bw.pdf>
+Package pdftex.def Info: gfx/TFZsuperellipse_bw.pdf  used on input line 23.
+(pdftex.def)             Requested size: 170.71652pt x 133.09721pt.
+[3 <c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/TFZsuperellipse_bw.pdf>])
+\openout2 = `FrontBackmatter/Titleback.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.tex
+LaTeX Font Info:    Try loading font information for OMS+pplj on input line 8.
+LaTeX Font Info:    No file OMSpplj.fd. on input line 8.
+
+
+LaTeX Font Warning: Font shape `OMS/pplj/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 8.
+
+) [4
+
+
+]
+\openout2 = `FrontBackmatter/Dedication.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.tex) [5
+
+
+
+
+] [6
+
+
+
+]
+\openout2 = `FrontBackmatter/Abstract.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.tex
+LaTeX Font Info:    Try loading font information for T1+fvm on input line 16.
+ (c:/texlive/2018/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 8.95853pt on input line 16.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) [7
+
+] [8
+
+
+
+]
+\openout2 = `FrontBackmatter/Publications.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.tex
+\blx@maxsegment@1=\count459
+\blx@sectionciteorder@1=\count460
+Package biblatex Info: Reference section=1 on input line 10.
+\openout3 = `ClassicThesis1-blx.aux'.
+
+Package biblatex Info: Setting label 'refsection:1' on input line 10.
+
+
+LaTeX Warning: Empty bibliography on input line 13.
+
+Package biblatex Info: Reference section=0 on input line 14.
+) [9
+
+
+
+] [10
+
+
+
+]
+\openout2 = `FrontBackmatter/Acknowledgments.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.tex
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10.53937> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 6.
+) [11
+
+] [12
+
+
+
+]
+\openout2 = `FrontBackmatter/Contents.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.tex
+Package tocbasic Info: character protrusion at toc deactivated on input line 11.
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.toc
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/10.53937'.
+(microtype)             Ignoring protrusion settings for this character.
+)
+\tf@toc=\write5
+\openout5 = `ClassicThesis.toc'.
+
+
+1: section
+1: chapter
+1: chapter
+1: section
+[13
+
+
+
+]
+Package tocbasic Info: character protrusion at lof deactivated on input line 29.
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lof)
+\tf@lof=\write6
+\openout6 = `ClassicThesis.lof'.
+
+Package tocbasic Info: character protrusion at lot deactivated on input line 39.
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lot)
+\tf@lot=\write7
+\openout7 = `ClassicThesis.lot'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.lol
+Overfull \hbox (1.19594pt too wide) detected at line 8
+\T1/pplj/m/n/10.53937 Listing A.1 
+ []
+
+)
+\tf@lol=\write8
+\openout8 = `ClassicThesis.lol'.
+
+) [14
+
+] [1
+
+
+
+
+
+
+
+] [2]
+\openout2 = `Chapters/Chapter01.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.tex
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 6.39894pt on input line 20.
+[3
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <7.52812> not available
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 94.
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 6.39894pt on input line 94.
+ [4]
+Package microtype Info: Character `029' is missing
+(microtype)             in font `T1/pplj/m/sc/9.03374'.
+(microtype)             Ignoring protrusion settings for this character.
+ [5]
+LaTeX Font Info:    Font shape `T1/pplj/bx/n' in size <10.53937> not available
+(Font)              Font shape `T1/pplj/b/n' tried instead on input line 162.
+ [6
+
+]
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 7.67873pt on input line 266.
+ [7] [8]) [9] [10
+
+
+
+] [11
+
+
+] [12]
+\openout2 = `Chapters/Chapter02.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.tex
+Chapter 2.
+Package acronym Info: Label `acro:UML' newly defined as it shall be overridden
+although it is yet undefined on input line 35.
+Package acronym Info: Label `acro:API' newly defined as it shall be overridden
+although it is yet undefined on input line 62.
+[13
+
+
+
+] [14]
+<gfx/example_1.jpg, id=290, 240.9pt x 180.675pt>
+File: gfx/example_1.jpg Graphic file (type jpg)
+<use gfx/example_1.jpg>
+Package pdftex.def Info: gfx/example_1.jpg  used on input line 179.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+<gfx/example_2.jpg, id=291, 240.9pt x 180.675pt>
+File: gfx/example_2.jpg Graphic file (type jpg)
+<use gfx/example_2.jpg>
+Package pdftex.def Info: gfx/example_2.jpg  used on input line 182.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+<gfx/example_3.jpg, id=292, 240.9pt x 180.675pt>
+File: gfx/example_3.jpg Graphic file (type jpg)
+<use gfx/example_3.jpg>
+Package pdftex.def Info: gfx/example_3.jpg  used on input line 184.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+<gfx/example_4.jpg, id=293, 240.9pt x 180.675pt>
+File: gfx/example_4.jpg Graphic file (type jpg)
+<use gfx/example_4.jpg>
+Package pdftex.def Info: gfx/example_4.jpg  used on input line 186.
+(pdftex.def)             Requested size: 151.19897pt x 113.40128pt.
+Package acronym Info: Label `acro:DRY' newly defined as it shall be overridden
+although it is yet undefined on input line 188.
+) [15 <c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_1.jpg> <c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_2.jpg> <c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_3.jpg> <c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/gfx/example_4.jpg>]
+\openout2 = `Chapters/Chapter03.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.tex
+Chapter 3.
+[16
+
+
+
+
+] [17]) [18] [19
+
+
+
+
+
+] [20]
+\openout2 = `Chapters/Chapter0A.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.tex
+Appendix A.
+(c:/texlive/2018/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)) [21
+
+
+
+] [22
+
+
+
+]
+\openout2 = `FrontBackmatter/Bibliography.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.tex
+Overfull \hbox (4.7334pt too wide) in paragraph at lines 15--15
+[]\T1/pplj/m/n/10.53937 (-20) Gunter Dueck. \T1/pplj/m/it/10.53937 Dueck's Trilo-gie 2.1: Om-niso-phie -- Supra-manie -- Topoth-
+ []
+
+[23
+
+
+
+]) [24]
+\openout2 = `FrontBackmatter/Declaration.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.tex) [25
+
+
+
+
+
+
+] [26
+
+
+
+]
+\openout2 = `FrontBackmatter/Colophon.aux'.
+
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.tex
+Overfull \hbox (33.48071pt too wide) in paragraph at lines 10--13
+\T1/pplj/m/n/10.53937 (-20) This doc-u-ment was type-set us-ing the ty-po-graph-i-cal look-and-feel \T1/fvm/m/n/10.53937 classicthesis
+ []
+
+) [27
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
+ (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.aux (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/DirtyTitlepage.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titlepage.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Titleback.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Dedication.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Abstract.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Publications.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Acknowledgments.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Contents.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter01.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter02.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter03.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/Chapters/Chapter0A.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Bibliography.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Declaration.aux) (c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/FrontBackmatter/Colophon.aux)
+
+Package mparhack Warning: Marginpars may have changed.
+(mparhack)                Rerun to get them right.
+
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+
+
+ *File List*
+ silence.sty    2012/07/02 v1.5b Selective filtering of warnings and error messages
+scrreprt.cls    2019/02/01 v3.26b KOMA-Script document class (report)
+scrkbase.sty    2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ scrbase.sty    2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+  keyval.sty    2014/10/28 v1.15 key=value parser (DPC)
+scrlfile.sty    2019/02/01 v3.26b KOMA-Script package (loading files)
+tocbasic.sty    2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+scrsize11pt.clo    2019/02/01 v3.26b KOMA-Script font size class option (11pt)
+typearea.sty    2019/02/01 v3.26b KOMA-Script package (type area)
+classicthesis-config.tex
+    ctex.sty    2018/05/02 v2.4.14 Chinese adapter in LaTeX (CTEX)
+   expl3.sty    2019-02-15 L3 programming layer (loader) 
+expl3-code.tex    2019-02-15 L3 programming layer 
+l3pdfmode.def    2019-02-15 v L3 Experimental driver: PDF mode
+  xparse.sty    2018-10-17 L3 Experimental document command parser
+l3keys2e.sty    2018-10-17 LaTeX2e option processing using LaTeX3 keys
+ctexhook.sty    2018/05/02 v2.4.14 Document and package hooks (CTEX)
+ctexpatch.sty    2018/05/02 v2.4.14 Patching commands (CTEX)
+  fix-cm.sty    2015/01/14 v1.1t fixes to LaTeX
+  ts1enc.def    2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+  ts1enc.dfu    2018/10/05 v1.2f UTF-8 support for inputenc
+everysel.sty    2011/10/28 v1.2 EverySelectfont Package (MS)
+ctexopts.cfg    2018/05/02 v2.4.14 Option configuration file (CTEX)
+ctex-engine-pdftex.def    2018/05/02 v2.4.14 (pdf)LaTeX adapter (CTEX)
+ CJKutf8.sty    2015/04/18 4.8.4
+   ifpdf.sty    2018/09/07 v3.3 Provides the ifpdf switch
+inputenc.sty    2018/08/11 v1.3c Input encoding file
+     CJK.sty    2015/04/18 4.8.4
+ MULEenc.sty    2015/04/18 4.8.4
+ fontenc.sty
+CJKpunct.sty    2016/05/14 4.8.4
+CJKpunct.spa
+CJKspace.sty    2015/04/18 3.8.0
+ ctexspa.def    2018/05/01 v2.4.14 Space info for CJKpunct (CTEX)
+CJKfntef.sty    2015/04/18 4.8.4
+ CJKulem.sty    2015/04/18 4.8.4
+    ulem.sty    2012/05/18
+zhnumber.sty    2018/01/28 v2.6 Typesetting numbers with Chinese glyphs
+zhnumber-utf8.cfg    2018/01/28 v2.6 Chinese numerals with UTF8 encoding
+ctex-scheme-chinese.def    2018/05/02 v2.4.14 Chinese scheme for generic (CTEX)
+ctex-name-utf8.cfg    2018/05/02 v2.4.14 Caption with encoding UTF8 (CTEX)
+ctex-c5size.clo    2018/05/02 v2.4.14 c5size option (CTEX)
+ctex-fontset-windows.def    2018/05/02 v2.4.14 Windows fonts definition (CTEX)
+ctex-fontset-windowsnew.def    2018/05/02 v2.4.14 Windows fonts definition for Vista or later version (CTEX)
+zhwindowsfonts.tex    2018/05/01 v2.4.14 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+    ctex.cfg    2018/05/02 v2.4.14 Configuration file (CTEX)
+ fontenc.sty
+   t1enc.def    2018/08/11 v2.0j Standard LaTeX file
+   babel.sty    2018/11/13 3.27 The Babel package
+ ngerman.ldf    2018/12/08 v2.11 German support for babel (post-1996 orthography)
+american.ldf    2017/06/06 v3.3r English support from the babel system
+csquotes.sty    2018/04/13 v5.2d context-sensitive quotations (JAW)
+etoolbox.sty    2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+csquotes.def    2018/04/13 v5.2d csquotes generic definitions (JAW)
+csquotes.cfg    
+biblatex.sty    2018/11/02 v3.12 programmable bibliographies (PK/MW)
+pdftexcmds.sty    2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+infwarerr.sty    2016/05/16 v1.4 Providing info/warning/error messages (HO)
+ifluatex.sty    2016/05/16 v1.4 Provides the ifluatex switch (HO)
+ ltxcmds.sty    2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+kvoptions.sty    2016/05/16 v3.12 Key value format for package options (HO)
+kvsetkeys.sty    2016/05/16 v1.17 Key value parser (HO)
+etexcmds.sty    2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+  logreq.sty    2010/08/04 v1.0 xml request logger
+  logreq.def    2010/08/04 v1.0 logreq spec v1.0
+  ifthen.sty    2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+     url.sty    2013/09/16  ver 3.4  Verb mode for urls, etc.
+  blx-dm.def    2018/11/02 v3.12 biblatex localization (PK/MW)
+blx-compat.def    2018/11/02 v3.12 biblatex compatibility (PK/MW)
+blx-bibtex.def    2018/11/02 v3.12 biblatex compatibility (PK/MW)
+biblatex.def    2018/11/02 v3.12 biblatex compatibility (PK/MW)
+blx-natbib.def    2018/11/02 v3.12 biblatex compatibility (PK/MW)
+standard.bbx    2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+ numeric.bbx    2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+numeric-comp.bbx    2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+numeric-comp.cbx    2018/11/02 v3.12 biblatex citation style (PK/MW)
+biblatex.cfg    
+ amsmath.sty    2018/12/01 v2.17b AMS math features
+ amstext.sty    2000/06/29 v2.01 AMS text
+  amsgen.sty    1999/11/30 v2.0 generic functions
+  amsbsy.sty    1999/11/29 v1.2d Bold Symbols
+  amsopn.sty    2016/03/08 v2.02 operator names
+graphicx.sty    2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+graphics.sty    2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+    trig.sty    2016/01/03 v1.10 sin cos tan (DPC)
+graphics.cfg    2016/06/04 v1.11 sample graphics configuration
+  pdftex.def    2018/01/08 v1.0l Graphics/color driver for pdftex
+ scrhack.sty    2019/02/01 v3.26b KOMA-Script package 
+  xpatch.sty    2012/10/02 v0.3 Extending etoolbox patching commands
+  xspace.sty    2014/10/28 v1.13 Space after command names (DPC,MH)
+ acronym.sty    2015/03/21 v1.41 Support for acronyms (Tobias Oetiker)
+  suffix.sty    2006/07/15 1.5a Variant command support
+ xstring.sty    2019/02/06 v1.83 String manipulations (CT)
+ relsize.sty    2013/03/29 ver 4.1
+tabularx.sty    2016/02/03 v2.11b `tabularx' package (DPC)
+   array.sty    2018/12/30 v2.4k Tabular extension package (FMi)
+  subfig.sty    2005/06/28 ver: 1.3 subfig package
+ caption.sty    2018/10/06 v3.3-154 Customizing captions (AR)
+caption3.sty    2018/09/12 v1.8c caption3 kernel (AR)
+listings.sty    2018/09/02 1.7 (Carsten Heinz)
+ lstmisc.sty    2018/09/02 1.7 (Carsten Heinz)
+listings.cfg    2018/09/02 1.7 listings configuration
+listings.hak    2019/02/01 v3.26b KOMA-Script package (hacking package listings)
+lstlang1.sty    2018/09/02 1.7 listings language file
+lstlang2.sty    2018/09/02 1.7 listings language file
+lstlang3.sty    2018/09/02 1.7 listings language file
+lstlang1.sty    2018/09/02 1.7 listings language file
+lstlang2.sty    2018/09/02 1.7 listings language file
+lstlang3.sty    2018/09/02 1.7 listings language file
+lstlang1.sty    2018/09/02 1.7 listings language file
+lstlang2.sty    2018/09/02 1.7 listings language file
+lstlang3.sty    2018/09/02 1.7 listings language file
+ lstmisc.sty    2018/09/02 1.7 (Carsten Heinz)
+classicthesis.sty    2018/06/03 v4.6 Typographic style for a classic-looking thesis
+ ifxetex.sty    2010/09/12 v0.6 Provides ifxetex conditional
+  xcolor.sty    2016/05/11 v2.12 LaTeX color extensions (UK)
+   color.cfg    2016/01/02 v1.6 sample color configuration
+dvipsnam.def    2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+mathpazo.sty    2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+beramono.sty    2004/01/31 (WaS)
+    ueur.fd    2013/01/14 v3.01 Euler Roman
+microtype.sty    2018/01/14 v2.7a Micro-typographical refinements (RS)
+microtype-pdftex.def    2018/01/14 v2.7a Definitions specific to pdftex (RS)
+microtype.cfg    2018/01/14 v2.7a microtype main configuration file (RS)
+mparhack.sty    2005/04/17 v1.4 (T. Sgouros and S. Ulrich)
+booktabs.sty    2016/04/27 v1.618033 publication quality tables
+textcase.sty    2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+scrlayer-scrpage.sty    2019/02/01 v3.26b KOMA-Script package (end user interface for scrlayer)
+scrlayer.sty    2019/02/01 v3.26b KOMA-Script package (defining layers and page styles)
+titlesec.sty    2016/03/21 v2.10.2 Sectioning titles
+ tocloft.sty    2017/08/31 v2.3i parameterised ToC, etc., typesetting
+ scrtime.sty    2019/02/01 v3.26b KOMA-Script package (time of LaTeX run)
+prelim2e.sty    2009/05/29 v1.3 prelim2e Package (MS)
+everyshi.sty    2001/05/15 v3.00 EveryShipout Package (MS)
+hyperref.sty    2018/11/30 v6.88e Hypertext links for LaTeX
+hobsub-hyperref.sty    2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+hobsub-generic.sty    2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+  hobsub.sty    2016/05/16 v1.14 Construct package bundles (HO)
+  ifvtex.sty    2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+ intcalc.sty    2016/05/16 v1.2 Expandable calculations with integers (HO)
+kvdefinekeys.sty    2016/05/16 v1.4 Define keys (HO)
+pdfescape.sty    2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+bigintcalc.sty    2016/05/16 v1.4 Expandable calculations on big integers (HO)
+  bitset.sty    2016/05/16 v1.2 Handle bit-vector datatype (HO)
+uniquecounter.sty    2016/05/16 v1.3 Provide unlimited unique counter (HO)
+letltxmacro.sty    2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+ hopatch.sty    2016/05/16 v1.3 Wrapper for package hooks (HO)
+xcolor-patch.sty    2016/05/16 xcolor patch
+atveryend.sty    2016/05/16 v1.9 Hooks at the very end of document (HO)
+atbegshi.sty    2016/06/09 v1.18 At begin shipout hook (HO)
+refcount.sty    2016/05/16 v3.5 Data extraction from label references (HO)
+ hycolor.sty    2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+ auxhook.sty    2016/05/16 v1.4 Hooks for auxiliary files (HO)
+  pd1enc.def    2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+hyperref.cfg    2002/06/06 v1.2 hyperref configuration of TeXLive
+   puenc.def    2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+ hpdftex.def    2018/11/30 v6.88e Hyperref driver for pdfTeX
+rerunfilecheck.sty    2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+ english.lbx    2018/11/02 v3.12 biblatex localization (PK/MW)
+american.lbx    2018/11/02 v3.12 biblatex localization (PK/MW)
+  german.lbx    2018/11/02 v3.12 biblatex localization (PK/MW)
+ ngerman.lbx    2018/11/02 v3.12 biblatex localization (PK/MW)
+    UTF8.bdg    2015/04/18 4.8.4
+    UTF8.enc    2015/04/18 4.8.4
+    UTF8.chr    2015/04/18 4.8.4
+  t1pplj.fd    2004/09/06 font definitions for T1/pplj.
+ClassicThesis.bbl
+supp-pdf.mkii
+epstopdf-base.sty    2016/05/15 v2.6 Base part for package epstopdf
+  grfext.sty    2016/05/16 v1.2 Manage graphics extensions (HO)
+epstopdf-sys.cfg    2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+  mt-ppl.cfg    2005/11/16 v1.6 microtype config. file: Palatino (RS)
+ nameref.sty    2016/05/21 v2.44 Cross-referencing by name of section
+gettitlestring.sty    2016/05/16 v1.5 Cleanup title references (HO)
+ClassicThesis.out
+ClassicThesis.out
+bookmark.sty    2016/05/17 v1.26 PDF bookmarks (HO)
+bkm-pdftex.def    2016/05/17 v1.26 bookmark driver for pdfTeX (HO)
+FrontBackmatter/DirtyTitlepage.tex
+   c70rm.fd    2018/05/01 v2.4.14 Chinese font definition (CTEX)
+ ot1pplx.fd    2004/09/06 font definitions for OT1/pplx.
+ omlzplm.fd    2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+ omszplm.fd    2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+ omxzplm.fd    2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+ ot1zplm.fd    2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+zhwindowsfonts.tex    2018/05/01 v2.4.14 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+FrontBackmatter/Titlepage.tex
+gfx/TFZsuperellipse_bw.pdf
+FrontBackmatter/Titleback.tex
+FrontBackmatter/Dedication.tex
+FrontBackmatter/Abstract.tex
+   t1fvm.fd    2004/09/07 scalable font definitions for T1/fvm.
+FrontBackmatter/Publications.tex
+FrontBackmatter/Acknowledgments.tex
+FrontBackmatter/Contents.tex
+Chapters/Chapter01.tex
+Chapters/Chapter02.tex
+gfx/example_1.jpg
+gfx/example_2.jpg
+gfx/example_3.jpg
+gfx/example_4.jpg
+Chapters/Chapter03.tex
+Chapters/Chapter0A.tex
+lstlang1.sty    2018/09/02 1.7 listings language file
+FrontBackmatter/Bibliography.tex
+FrontBackmatter/Declaration.tex
+FrontBackmatter/Colophon.tex
+ ***********
+
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
+Package rerunfilecheck Info: File `ClassicThesis.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+
+Package biblatex Warning: Please (re)run BibTeX on the file(s):
+(biblatex)                ClassicThesis1-blx
+(biblatex)                and rerun LaTeX afterwards.
+
+Package logreq Info: Writing requests to 'ClassicThesis.run.xml'.
+\openout1 = `ClassicThesis.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 42653 strings out of 492616
+ 769491 string characters out of 6132768
+ 1408987 words of memory out of 5000000
+ 45257 multiletter control sequences out of 15000+600000
+ 640982 words of font info for 418 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 72i,22n,93p,9167b,2288s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2018/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/Windows/Fonts/simsun.ttc><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/euler/eurb10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/mathpazo/fplmri.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/bera/fvmro8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2018/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on "c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/classicthesis/ClassicThesis.pdf" (41 pages, 304644 bytes).
+PDF statistics:
+ 580 PDF objects out of 1000 (max. 8388607)
+ 509 compressed objects within 6 object streams
+ 157 named destinations out of 1000 (max. 500000)
+ 95046 words of extra memory for PDF output out of 106986 (max. 10000000)
+

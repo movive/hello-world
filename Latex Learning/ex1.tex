@@ -1,0 +1,23 @@
+\documentclass[paper=a4, oneside, fontsize=12pt, parskip=full]{scrartcl}
+\usepackage[UTF8]{ctex}
+\begin{document}
+\tableofcontents
+\addsec{背景介绍}
+可以用中文了真是一件值得高兴的事情呢。This document will be our starting point for simpolel documents. It is suitable for a single page or up to a couple of ddozen pages. The text will be divided into sections.中文测试不好用啊
+
+\section{第一章}
+This first text will contain
+\begin{itemize}
+	\item a table of contents,
+	\item a bulleted list,
+	\item headings and some text and math in section,
+	\item referencing such as to section \ref{sec:maths} and equation (\ref{eq:integral}).
+\end{itemize}
+\section{一些公式}
+\label{sec:maths}
+\begin{equation}
+\label{eq:integral}
+	\int_a^b f(x)\,\mathrm{d}x \approx (b-a)
+	\sum_{i=0}^n w_i f(x_i)
+\end{equation}
+\end{document}
