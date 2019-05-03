@@ -1,0 +1,272 @@
+PWD c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin
+INPUT c:/texlive/2018/texmf.cnf
+INPUT c:/texlive/2018/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.tex
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.log
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/Soundresearch.cls
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/Soundresearch.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexart.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexart.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2018/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/nul:
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/nul:.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.dfu
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKutf8.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexspa.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctexspa.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ulem/ulem.sty
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex-name-utf8.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/ctex-cs4size.clo
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+INPUT c:/Windows/Fonts/msyh.ttc
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT c:/texlive/2018/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd
+INPUT c:/texlive/2018/texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/soundresearch.cfg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/soundresearch.cfg
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/artratex.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/artratex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/newtxtext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/newtxtext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/xkeyval/keyval.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/fontenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/t1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/textcomp.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/base/ts1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/newtxmath.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/newtxmath.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/centernot.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/centernot.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT c:/texlive/2018/texmf-dist/tex/generic/kastrup/binhex.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mathalfa/mathalfa.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/mathalfa/mathalfa.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/subcaption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/bicaption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/caption/bicaption.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/placeins/placeins.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/artracom.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Style/artracom.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/tools/array.sty
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Tex/Frontinfo.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Tex/Frontinfo.tex
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+INPUT c:/texlive/2018/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/puenc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/stringenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/stringenc.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-pdfdoc.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-pdfdoc.def
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/se-pdfdoc.def
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+INPUT c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.aux
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.aux
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/omlntxmi.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/omlntxmi.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/untxexa.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+INPUT c:/texlive/2018/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+INPUT c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+INPUT c:/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.out
+OUTPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.pdf
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Tex/Frontmatter.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Tex/Frontmatter.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Tex/Mainmatter.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/Tex/Mainmatter.tex
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.aux
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.out
+INPUT c:/Users/moviv/Documents/GitHub/hello-world/Latex Learning/High-tech-project/Tianjin/gaoxin.out
