@@ -33,6 +33,10 @@
 %->> Required packages
 %
 \RequirePackage{ifxetex}
+
+\RequirePackage{tabularx}
+
+\RequirePackage{multirow}
 %
 %->> Load class configuration
 %
@@ -52,14 +56,14 @@
 %- binding side width of [odd, even] page = [left, right] side width
 %- left side width of [odd, even] page = 1.0in (fixed) + hoffset + [odd, even]sidemargin
 %- assuming A4 paper (210mm x 297mm)
-\setlength{\textwidth}{146.6mm}% set required text width first
+\setlength{\textwidth}{160mm}% set required text width first
 \setlength{\hoffset}{0mm}% set horizontal offset
 \ifsound@print% if print layout enabled
-    \setlength{\oddsidemargin}{12.6mm}% binding side margin
+    \setlength{\oddsidemargin}{0mm}% binding side margin
     \setlength{\evensidemargin}{0mm}% ensure uniform binding side width for printing
 \else
-    \setlength{\oddsidemargin}{6.3mm}% left side margin
-    \setlength{\evensidemargin}{6.3mm}% ensure uniform left side width for EThesis
+    \setlength{\oddsidemargin}{0mm}% left side margin
+    \setlength{\evensidemargin}{0mm}% ensure uniform left side width for EThesis
 \fi
 %\setlength{\marginparwidth}{35pt}% width of margin notes
 %\setlength{\marginparsep}{10pt}% width of space between body text and margin notes
@@ -114,3 +118,164 @@
 %->> Titlepage
 %
 %-> Chinese item commands
+%
+%\title{title}{subtitle}
+\def\sound@value@ch@title{}
+\def\sound@value@ch@subtitle{}
+\renewcommand{\title}[2]{%
+    \def\sound@value@ch@title{#1}
+    \def\sound@value@ch@subtitle{#2}}
+\def\sound@value@ch@project@id{}
+\newcommand{\id}[1]{\def\sound@value@ch@project@id{#1}}
+\def\sound@value@ch@project@name{}
+\newcommand{\projectname}[1]{\def\sound@value@ch@project@name{#1}}
+\def\sound@value@ch@manager{}
+\newcommand{\manager}[1]{\def\sound@value@ch@manager{#1}}
+\def\sound@value@ch@department{}
+\newcommand{\department}[1]{\def\sound@value@ch@department{#1}}
+\def\sound@value@ch@applydate{}
+\newcommand{\applydate}[1]{\def\sound@value@ch@applydate{#1}}
+\def\sound@value@ch@company{}
+\newcommand{\company}[1]{\def\sound@value@ch@company{#1}}
+\def\sound@value@ch@manager@gender{}
+\newcommand{\managergender}[1]{\def\sound@value@ch@manager@gender{#1}}
+\def\sound@value@ch@manager@birth{}
+\newcommand{\managerbirth}[1]{\def\sound@value@ch@manager@birth{#1}}
+\def\sound@value@ch@manager@ethnic{}
+\newcommand{\managerethnic}[1]{\def\sound@value@ch@manager@ethnic{#1}}
+\def\sound@value@ch@manager@degree{}
+\newcommand{\managerdegree}[1]{\def\sound@value@ch@manager@degree{#1}}
+\def\sound@value@ch@manager@title{}
+\newcommand{\managertitle}[1]{\def\sound@value@ch@manager@title{#1}}
+\def\sound@value@ch@manager@area{}
+\newcommand{\managerarea}[1]{\def\sound@value@ch@manager@area{#1}}
+\def\sound@value@ch@manager@telephone{}
+\newcommand{\managertelephone}[1]{\def\sound@value@ch@manager@telephone{#1}}
+\def\sound@value@ch@manager@email{}
+\newcommand{\manageremail}[1]{\def\sound@value@ch@manager@email{#1}}
+\def\sound@value@ch@attandent{}
+\newcommand{\attandent}[1]{\def\sound@value@ch@attandent{#1}}
+\def\sound@value@ch@expectperiod{}
+\newcommand{\expectperiod}[1]{\def\sound@value@ch@expectperiod{#1}}
+\def\sound@value@ch@fund{}
+\newcommand{\fund}[1]{\def\sound@value@ch@fund{#1}}
+\def\sound@value@ch@fundtype{}
+\newcommand{\fundtype}[1]{\def\sound@value@ch@fundtype{#1}}
+\def\sound@value@ch@achievement@middle{}
+\newcommand{\achievementmiddle}[1]{\def\sound@value@ch@achievement@middle{#1}}
+\def\sound@value@ch@achievement@final{}
+\newcommand{\achievementfinal}[1]{\def\sound@value@ch@achievement@final{#1}}
+\def\sound@value@ch@project@area{}
+\newcommand{\projectarea}[1]{\def\sound@value@ch@project@area{#1}}
+\def\sound@value@ch@project@direction{}
+\newcommand{\projectdirection}[1]{\def\sound@value@ch@project@direction{#1}}
+\def\sound@value@ch@project@abstract{}
+\newcommand{\projectabstract}[1]{\def\sound@value@ch@project@abstract{#1}}
+%-
+%-> Redefine Chinese style
+%-
+\renewcommand{\maketitle}{%
+    \cleardoublepage
+    \thispagestyle{empty}    
+    \begin{flushright}
+        \zihao{-3}\bfseries
+        \vspace*{5pt}
+        \sound@label@ch@project@id：\ulenhance[1pt]{\ulextend[100pt]{\sound@value@ch@project@id}}
+    \end{flushright}
+        \begin{center}
+        \linespread{1.3}
+        \zihao{-3}\bfseries
+        \vspace*{110pt}
+
+        {%
+            \zihao{1}
+            \sound@value@ch@title
+        }
+
+        \vspace*{20pt}
+
+        {\zihao{3}\bfseries\sffamily \sound@value@ch@subtitle}
+        
+        \vspace*{205pt}
+        \begin{tabular}{ l l }
+            \sound@label@ch@project@name：& \ulenhance[1pt]{\ulextend[150pt]{\sound@value@ch@project@name}}\\
+            \sound@label@ch@manager：& \ulenhance[1pt]{\ulextend[150pt]{\sound@value@ch@manager}}\\
+            \sound@label@ch@department：& \ulenhance[1pt]{\ulextend[150pt]{\sound@value@ch@department}}\\
+            \sound@label@ch@applydate：& \ulenhance[1pt]{\ulextend[150pt]{\sound@value@ch@applydate}}
+        \end{tabular}
+
+        \vspace*{100pt}
+        {\sound@value@ch@company}
+
+    \end{center}
+    \clearpage
+}
+
+%-> make various tables
+\newcolumntype{L}[1]{>{\hsize=#1\hsize\raggedright\arraybackslash}X}%
+\newcolumntype{R}[1]{>{\hsize=#1\hsize\raggedleft\arraybackslash}X}%
+\newcolumntype{C}[1]{>{\hsize=#1\hsize\centering\arraybackslash}X}%
+
+\newcommand{\makebasicinfo}{%
+    \raggedleft{%
+    % addjust row height
+    \renewcommand{\arraystretch}{1.5}
+    \begin{tabular}{|p{6mm}|p{6mm}|p{10mm}|p{18mm}|p{12mm}|p{5mm}|p{18mm}|p{18mm}|p{12mm}|p{12mm}|}
+        \hline        \multirow{4}{6mm}{项目人员信息} & \multirow{3}{6mm}{\sound@label@ch@manager} & \sound@label@ch@manager@name      & \sound@value@ch@manager         & \sound@label@ch@manager@gender & \sound@value@ch@manager@gender & \sound@label@ch@manager@birth & \sound@value@ch@manager@birth & \sound@label@ch@manager@ethnic & \sound@value@ch@manager@ethnic \\
+        \cline{3-10}                                 &                                            & \sound@label@ch@manager@degree    & \sound@value@ch@manager@degree  & \sound@label@ch@manager@title  & \multicolumn{2}{l|}{\sound@value@ch@manager@title}              & \sound@label@ch@manager@area  & \multicolumn{2}{l|}{\sound@value@ch@manager@area}                \\
+        \cline{3-10}                                 &                                            & \sound@label@ch@manager@telephone & \multicolumn{2}{l|}{\sound@value@ch@manager@telephone}            & \multicolumn{2}{l|}{\sound@label@ch@manager@email}              & \multicolumn{3}{l|}{\sound@value@ch@manager@email}\\
+        \cline{2-10}                                 & \multicolumn{2}{l|}{\sound@label@ch@attandent}                                & \multicolumn{7}{l|}{\sound@value@ch@attandent}\\
+        \hline        \multirow{3}{6mm}{合作单位} & \multicolumn{2}{l|}{单位名称} & \multicolumn{2}{l|}{} & \multicolumn{2}{l|}{联系人}   & \multicolumn{3}{l|}{} \\
+        \cline{2-10}                                  & \multicolumn{2}{l|}{单位性质} & \multicolumn{2}{l|}{} & \multicolumn{2}{l|}{电话}     & \multicolumn{3}{l|}{} \\
+        \cline{2-10}                                  & \multicolumn{2}{l|}{合作方式} & \multicolumn{2}{l|}{} & \multicolumn{2}{l|}{电子邮箱} & \multicolumn{3}{l|}{}\\
+        \hline        \multirow{7}{6mm}{项目基本信息}  & \multicolumn{2}{l|}{\sound@label@ch@project@name}      & \multicolumn{7}{l|}{\sound@value@ch@project@name} \\
+        \cline{2-10}                                  & \multicolumn{2}{l|}{\sound@label@ch@project@area}      & \multicolumn{7}{l|}{\sound@value@ch@project@area} \\
+        \cline{2-10}                                  & \multicolumn{2}{l|}{\sound@label@ch@project@direction} & \multicolumn{7}{l|}{\sound@value@ch@project@direction} \\
+        \cline{2-10}                                  & \multicolumn{2}{l|}{\multirow{2}{21mm}{\sound@label@ch@expectperiod}} & \multicolumn{2}{l|}{\multirow{2}{30mm}{\sound@value@ch@expectperiod}} & \multicolumn{2}{l|}{\sound@label@ch@fundtype} & \multicolumn{3}{l|}{\sound@value@ch@fundtype} \\
+        \cline{6-10}                                  & \multicolumn{2}{l|}{}                                                 & \multicolumn{2}{l|}{}                                                 & \multicolumn{2}{l|}{\sound@label@ch@fund} & \multicolumn{3}{l|}{\sound@value@ch@fund} \\  
+        \cline{2-10}                                  & \multicolumn{2}{l|}{\multirow{2}{21mm}{\sound@label@ch@achievement}} & \multicolumn{7}{l|}{\sound@value@ch@achievement@middle}\\
+        \cline{4-10}                                  & \multicolumn{2}{l|}{}                                                & \multicolumn{7}{l|}{\sound@value@ch@achievement@final}\\
+        \hline        \multirow{5}{6mm}{\sound@label@ch@project@abstract} & \multicolumn{9}{l|}{\multirow{5}{154mm}{\sound@value@ch@project@abstract}}\\
+        & \multicolumn{9}{l|}{}\\
+        & \multicolumn{9}{l|}{}\\
+        & \multicolumn{9}{l|}{}\\
+        & \multicolumn{9}{l|}{}\\
+        & \multicolumn{9}{l|}{}\\
+        \hline
+    \end{tabular}
+    }
+}
+
+%---------------------------------------------------------------------------%
+%->> Structure elements configuration
+%---------------------------------------------------------------------------%
+%- section
+\ctexset {
+    section = {
+        format = \raggedright\zihao{4}\sffamily,
+        number = {\chinese{section}},
+        aftername = \quad,
+        beforeskip = {24pt},
+        afterskip = {6pt},
+    }
+}
+%- subsection
+\ctexset {
+    subsection = {
+        format = \sffamily,
+        numberformat = \rmfamily,
+        aftername = \quad,
+        beforeskip = {12pt},
+        afterskip = {6pt},
+    }
+}
+%- subsubsection
+\ctexset {
+    subsubsection = {
+        format = \sffamily,
+        numberformat = \rmfamily,
+        aftername = \quad,
+        beforeskip = {12pt},
+        afterskip = {6pt},
+    }
+}

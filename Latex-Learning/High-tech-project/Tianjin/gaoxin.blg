@@ -6,10 +6,11 @@ I couldn't open style file Biblio/gbt7714-plain.bst
  : \bibstyle{Biblio/gbt7714-plain
  :                               }
 I'm skipping whatever remains of this command
+A level-1 auxiliary file: Tex/content1.aux
 I found no style file---while reading file gaoxin.aux
-You've used 1 entry,
+You've used 5 entries,
             0 wiz_defined-function locations,
-            85 strings with 516 characters,
+            91 strings with 592 characters,
 and the built_in function-call counts, 0 in all, are:
 = -- 0
 > -- 0

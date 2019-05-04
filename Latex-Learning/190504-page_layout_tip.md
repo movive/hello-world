@@ -1,0 +1,2 @@
+* Latex页面布局尺寸有问题。如果在文件布局中定义textwidth为160mm时`\setlength{\textwidth}{160mm}`，在tabular中调用`\begin{tabular}{p{\textwidth}}`取得的数值实际在117mm左右，若用`\begin{tabular}{p{x mm}}`来定义单元格宽度，总长160的单元格，实际定义宽度是`\begin{tabular}{p{117 mm}}`
+* Latex 页面间距默认左右侧有25mm的页间距，若想缩短左侧页间距，可以使用`\setlength{\hoffset}{-x mm}`实现，若想缩短右侧页边距，可以使用增加textwidth宽度，`\setlength{\textwidth}{x mm}`来实现。

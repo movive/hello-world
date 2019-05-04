@@ -6,7 +6,7 @@
 %---------------------------------------------------------------------------%
 %->> Document class declaration
 %---------------------------------------------------------------------------%
-\documentclass{Style/Soundresearch}%
+\documentclass{Style/soundresearch}%
 %- Multiple optional arguments:
 %- [<oneside|twoside|print>]% oneside eprint, twoside eprint, or paper print
 %- [fontset=<adobe|...>]% specify font set to replace automatic detection
@@ -36,7 +36,7 @@
 %- [math]% enable some extra math packages
 %- [xlink]% disable link colors
 \usepackage{Style/artracom}% user defined commands
-\usepackage{tabularx}
+
 %\usepackage[UTF8]{ctex}
 %---------------------------------------------------------------------------%
 %->> Document inclusion
@@ -55,15 +55,17 @@
 %-
 \pagenumbering{roman}% page numbers with roman style
 \input{Tex/Frontmatter}% title page, abstract
+\maketitle
 %-
 %-> Mainmatter
 %-
-\clearpage
+
+%\clearpage
 \pagenumbering{arabic}% restart page numbers with arabic style
 \input{Tex/Mainmatter}% main content
 %-
 %-> Backmatter: bibliography, glossary, index
 %-
-\cite{}
+
 \bibliography{Biblio/ref}% bibliography
 \end{document}
