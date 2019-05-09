@@ -1,0 +1,1 @@
+使用`\begin{tabular}{|m{55mm}<{\flushleft}|m{40mm}<{\centering}|m{50mm}<{\flushleft}|}`表格单元即使只有单行文字，最下一行文字与单元格下边线之间也会留有很大空白，若去掉`<{\flushleft}`等修饰则一切恢复正常。估计与array包的设置有关，尚未深究。

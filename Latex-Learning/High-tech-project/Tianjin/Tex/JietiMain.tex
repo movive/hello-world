@@ -1,0 +1,54 @@
+\section{基本信息}
+\makejietiinfo
+\section{研究内容、目标及完成情况}
+%\vspace{10mm}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \setlength{\parindent}{2em}
+    \input{Tex/contentjie1}
+\end{mdframed}
+\clearpage
+\section{研究成果简介}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \input{Tex/contentjie2} 
+    \vspace{20mm}       
+\end{mdframed}
+\clearpage
+\section{经费使用情况}
+\DTLloadrawdb[keys={a,b,c}]{actualfund}{Tex/actualfund.csv}
+%\renewcommand{\arraystretch}{1.4}
+%\zihao{6}
+%\setlength{\baselineskip}{0mm}
+\DTLgetvalue{\fund}{actualfund}{14}{1}
+\DTLgetvalue{\expense}{actualfund}{14}{2}
+\DTLgetvalue{\leftover}{actualfund}{14}{3}
+\begin{tabular}{|m{20mm}|m{23mm}|m{20mm}|m{24mm}|m{20mm}|m{23mm}|}
+    \hline
+    申请经费 & \fund元 & 累计支出 & \expense元 & 结余经费 & \leftover元 \\
+    \hline 
+\end{tabular}
+\\
+\begin{tabular}{|m{47.4mm}|m{48.3mm}|m{47.4mm}|}
+    支出内容 & 金额（元） & 与预算差异（元） \\
+    \hline
+    \DTLforeach{actualfund}{%
+    \a=a,\b=b,\c=c}{%
+    \a & \b & \c
+    \ifthenelse{\value{DTLrowi}=12}{\dtlbreak}{\\    \hline}
+    }     
+    \\
+    \hline
+\end{tabular}
+\clearpage
+\section{存在的问题、建议及其他需要说明的情况}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \input{Tex/contentjie3} 
+    \vspace{20mm}  
+\end{mdframed}
+\clearpage
+\section{立项评审表}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \mdfsubtitle{\subsection*{技术委员会意见}}
+    \vspace*{200mm}
+    \hspace{100mm}委员会主任：\par
+    \hspace{100mm}20\qquad年\quad月\quad日
+\end{mdframed}

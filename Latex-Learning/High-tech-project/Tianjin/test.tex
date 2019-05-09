@@ -1,47 +1,33 @@
-七、项目经费预算
-
-\begin{longtable}[]{@{}lllll@{}}
-\toprule
-\begin{minipage}[b]{0.17\columnwidth}\raggedright
-\emph{\textbf{项目经费预算表}}
-
-\emph{（金额： 万元）}\strut
-\end{minipage} & \begin{minipage}[b]{0.17\columnwidth}\raggedright
-\strut
-\end{minipage} & \begin{minipage}[b]{0.17\columnwidth}\raggedright
-\strut
-\end{minipage} & \begin{minipage}[b]{0.17\columnwidth}\raggedright
-\strut
-\end{minipage} & \begin{minipage}[b]{0.17\columnwidth}\raggedright
-\strut
-\end{minipage}\tabularnewline
-\midrule
-\endhead
-经费来源 & 外部经费： \emph{0} & \emph{合计：29} & &\tabularnewline
-& 内部研究开发投入：29 & & &\tabularnewline
-科目 & 申请经费 & \emph{备注与计算依据（必填）} & &\tabularnewline
-& 2017年 & 2018年 & &\tabularnewline
-1.人员人工费 & 5 & 8 & &\tabularnewline
-2.直接投入 & & & &\tabularnewline
-（1）原材料/试剂/药品购置费 & 2 & 1 & &
-催化剂购买、试验药剂购买\tabularnewline
-（2）测试化验费 & 1 & 1 & & 水质检测、降解产物GC-MS分析\tabularnewline
-（3）设备费 & 5 & & & 试验装置加工、组装\tabularnewline
-（4）其他费用 & & & &\tabularnewline
-3、折旧费用与长期待摊销费用 & & & &\tabularnewline
-4.装备开发调试费 & & 1 & & 设备维修保养费\tabularnewline
-5.委托外部研究开发费用 & & & &\tabularnewline
-6.无形资产摊销 & & & &\tabularnewline
-7.设计费 & & & &\tabularnewline
-8.其他费用 & & & &\tabularnewline
-（1）会议费/差旅费 & 1 & 3 & & 调研、技术交流、现场试验\tabularnewline
-（2）出版/文献/知识产权事务费 & & 1 & &
-以申请2篇专利计，每篇0.5万元计\tabularnewline
-（3）项目认证、评审、验收费用 & & & &\tabularnewline
-（4）其他费用 & & & &\tabularnewline
-总计 & 14 & 15 & &\tabularnewline
-经费来源 & 外部经费 & & &\tabularnewline
-& 内部研究开发投入 & 29 & &\tabularnewline
-& 经费来源合计 & 29 & &\tabularnewline
-\bottomrule
-\end{longtable}
+\documentclass{Style/soundresearch}
+\usepackage{lipsum}
+\singlespacing
+\begin{document}
+\section{经费使用情况}
+\DTLloadrawdb[keys={a,b,c}]{actualfund}{Tex/actualfund.csv}
+\DTLloadrawdb[keys={a,b,c}]{test}{Tex/test.csv}
+%\renewcommand{\arraystretch}{1.4}
+%\zihao{6}
+%\setlength{\baselineskip}{0mm}
+\DTLgetvalue{\fund}{actualfund}{14}{1}
+\DTLgetvalue{\expense}{actualfund}{14}{2}
+\DTLgetvalue{\leftover}{actualfund}{14}{3}
+\noindent
+\begin{tabular}{|m{20mm}|m{23mm}|m{20mm}|m{24mm}|m{20mm}|m{23mm}|}
+    \hline
+    申请经费 & \fund元 & 累计支出 & \expense元 & 结余经费 & \leftover元 \\
+    \hline 
+\end{tabular}
+\\
+\begin{tabular}{|m{47.4mm}|m{48.3mm}|m{47.4mm}|}
+    支出内容 & 金额（元） & 与预算差异（元） \\
+    \hline
+    \DTLforeach{actualfund}{%
+    \a=a,\b=b,\c=c}{%
+    \a & \b & \c
+    \ifthenelse{\value{DTLrowi}=12}{\dtlbreak}{\\    \hline}
+    }     
+    \\
+    \hline
+\end{tabular}
+\clearpage
+\end{document}
