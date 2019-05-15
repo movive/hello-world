@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.20)  9 MAY 2019 09:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.20)  13 MAY 2019 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1369,7 +1369,8 @@ File: UTF8.enc 2015/04/18 4.8.4
 )
 (c:/texlive/2018/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
 File: UTF8.chr 2015/04/18 4.8.4
-) (./Jieti.aux)
+)
+No file Jieti.aux.
 \openout1 = `Jieti.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 56.
@@ -1738,25 +1739,19 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 74.
 (./Tex/JietiMain.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 74.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 74.
+Package rerunfilecheck Info: File `Jieti.out' has not changed.
+(rerunfilecheck)             Checksum: EE326EA9B95785234223B644383ACA05;810.
 
-
-Package rerunfilecheck Warning: File `Jieti.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Jieti.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  EE326EA9B95785234223B644383ACA05;810.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.65625pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 30883 strings out of 492616
- 521166 string characters out of 6132768
- 855367 words of memory out of 5000000
- 34012 multiletter control sequences out of 15000+600000
+ 30888 strings out of 492616
+ 521239 string characters out of 6132768
+ 855443 words of memory out of 5000000
+ 34019 multiletter control sequences out of 15000+600000
  616650 words of font info for 216 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  53i,9n,65p,868b,524s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1798,10 +1793,10 @@ ws/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><
 c:/Windows/Fonts/simhei.ttf><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-
 gyre/qtmb.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb>
 
-Output written on Jieti.pdf (11 pages, 413366 bytes).
+Output written on Jieti.pdf (11 pages, 413648 bytes).
 PDF statistics:
- 528 PDF objects out of 1000 (max. 8388607)
- 357 compressed objects within 4 object streams
+ 547 PDF objects out of 1000 (max. 8388607)
+ 376 compressed objects within 4 object streams
  33 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 
