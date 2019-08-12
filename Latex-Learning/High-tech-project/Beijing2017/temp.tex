@@ -1,0 +1,53 @@
+\noindent
+\lipsum[1]
+\par
+\lipsum[1]
+Helloworld!
+
+\DTLloadrawdb[keys={a,b,c}]{fund}{Tex/fund.csv}
+\renewcommand{\arraystretch}{1.4}
+%\zihao{6}
+%\setlength{\baselineskip}{0mm}
+\DTLgetvalue{\fundsum}{fund}{13}{3}
+\DTLgetvalue{\fundoutside}{fund}{14}{2}
+\DTLgetvalue{\fundinner}{fund}{14}{2}
+\DTLgetvalue{\fundsumall}{fund}{15}{3}
+    \begin{tabular}{|p{65mm}|p{30mm}|p{50mm}|}
+        \hline
+        \multicolumn{3}{|c|}{项目经费预算表} \\
+        \multicolumn{3}{|r|}{（金额：\fundsum 万元）}  \\
+        \hline
+        \multirow{2}{65mm}{经费来源} & 外部经费：\fundoutside & \multirow{2}{55mm}{合计：\fundsumall}   \\
+                                    & 内部经费：\fundinner   &  \\
+        \hline
+        \DTLforeach{fund}{%
+            \a=a,\b=b,\c=c}{%
+            \a & \b & \c
+            \ifthenelse{\value{DTLrowi}=12}{\dtlbreak}{\\    \hline}
+%            \DTLiflastrow{}{ \\ \hline }
+        }
+        \\
+        \hline
+    \end{tabular}
+
+
+    \begin{longtable}{p{155mm}}
+        \hline
+        \endfirsthead
+        \hline
+        \endfirsthead
+        \hline
+        \endfoot
+        {\bfseries研发项目进度情况：}（立项实施以来的研发工作概况；资料调研和社会调查情况；已完成的研究工作；对照原定的研究计划，如果未能按计划进行，请说明具体原因。）\\
+    
+        \lipsum \\
+        \hline 
+        {\bfseries已取得的阶段性成果：} \\
+        \lipsum \\
+        \hline 
+        {\bfseries下一步研究计划和任务：} \\
+        \lipsum \\
+        \hline 
+        {\bfseries存在的问题、建议及其他需要说明的情况：} \\
+        \lipsum \\
+    \end{longtable}

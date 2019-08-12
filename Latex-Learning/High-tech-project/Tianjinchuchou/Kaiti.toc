@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {一、}基本信息}{1}{section.1}% 
+\contentsline {section}{\numberline {二、}立项依据}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}研究的目的、意义（限500字以内）}{2}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}国内外现状、水平和发展趋势分析（限2000字以内，附参考文献目录）}{3}{subsection.2.2}% 
+\contentsline {section}{\numberline {三、}项目的研究内容和目标}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}项目的研究内容}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}项目的研究目标}{5}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}拟解决的关键问题及创新点}{6}{subsection.3.3}% 
+\contentsline {section}{\numberline {四、}拟采取的研究方案及可行性分析}{7}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}拟采取的研究方案}{7}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}可行性分析}{7}{subsection.4.2}% 
+\contentsline {section}{\numberline {五、}研究计划与进度安排}{8}{section.5}% 
+\contentsline {section}{\numberline {六、}预期的研究成果与预计产生的经济效益、环境效益}{8}{section.6}% 
+\contentsline {section}{\numberline {七、}研发项目组人员名单}{9}{section.7}% 
+\contentsline {section}{\numberline {八、}项目经费预算}{10}{section.8}% 
+\contentsline {section}{\numberline {九、}立项评审表}{11}{section.9}% 

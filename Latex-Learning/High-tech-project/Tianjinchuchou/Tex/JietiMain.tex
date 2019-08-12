@@ -1,0 +1,65 @@
+\section{基本信息}
+\makejietiinfo
+\section{研究内容、目标及完成情况}
+%\vspace{10mm}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \setlength{\parindent}{2em}
+    \input{Tex/content31} 
+    \input{Tex/content32}
+    截至\showapplydate，课题筛选出除臭专型菌种、以此构建除臭中试实验及总结实验参数关系，提出设计指南。所有课题目标均已达成，项目圆满完成。\par 
+    \vspace{35mm}
+\end{mdframed}
+\clearpage
+\section{研究成果简介}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \input{Tex/contentjie1} 
+    \vspace{100mm}       
+\end{mdframed}
+\clearpage
+\section{经费使用情况}
+\DTLloadrawdb[keys={a,b,c}]{actualfund}{Tex/actualfund.csv}
+%\renewcommand{\arraystretch}{1.4}
+%\zihao{6}
+%\setlength{\baselineskip}{0mm}
+\DTLgetvalue{\fund}{actualfund}{14}{1}
+\DTLgetvalue{\expense}{actualfund}{14}{2}
+\DTLgetvalue{\leftover}{actualfund}{14}{3}
+\begin{tabular}{|m{20mm}|m{23mm}|m{20mm}|m{24mm}|m{20mm}|m{23mm}|}
+    \hline
+    申请经费 & \fund元 & 累计支出 & \expense元 & 结余经费 & \leftover元 \\
+    \hline 
+\end{tabular}
+\\
+
+\begin{tabular}{|m{72mm}|m{75.5mm}|}
+    支出内容 & 金额（万元） \\
+    \hline
+    \DTLforeach{actualfund}{%
+    \a=a,\b=b}{%
+    \a & \b
+    \ifthenelse{\value{DTLrowi}=7}{\dtlbreak}{\\    \hline}
+    }     
+    \\
+    \hline
+\end{tabular}
+%\clearpage %将四、五章合并至一页
+\section{存在的问题、建议及其他需要说明的情况}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \input{Tex/contentjie2} 
+    \vspace{110mm}  
+\end{mdframed}
+\clearpage
+\section{结题评审表}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \mdfsubtitle{\subsection*{总工程师意见}}
+    \input{Tex/contentjie3} \par 
+    \vspace*{40mm}
+    \hspace{100mm}总工程师：\par
+    \hspace{100mm}20\qquad年\quad月\quad日
+    \vspace*{10mm}
+    \mdfsubtitle{\subsection*{总经理意见}}
+    \vspace*{70mm}
+    \hspace{100mm}总经理：\par
+    \hspace{100mm}20\qquad年\quad月\quad日
+    
+\end{mdframed}

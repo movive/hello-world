@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\relax\else
+  \urlstyle{same}\fi
+\providecommand{\href}[2]{\url{#2}}
+\providecommand{\doi}[1]{\href{https://doi.org/#1}{#1}}
+
+\bibitem[{{黄慧君}(2016)}]{huanghuijun_2016}
+{黄慧君}.
+\newblock 煤化工水处理新技术、新工艺介绍\allowbreak[J].
+\newblock 煤炭加工与综合利用, 2016\penalty0 (10):\penalty0 8-12.
+
+\bibitem[{{鲁明}\ 等(2016){鲁明}, {陈爱春}, and
+  {姚桂莹}}]{luming_2016}
+{鲁明}, {陈爱春}, {姚桂莹}.
+\newblock 煤化工废水生物综合处理试验研究\allowbreak[J].
+\newblock 天津化工, 2016, 30\penalty0 (3):\penalty0 45-47.
+
+\bibitem[{{荣俊锋}\ 等(2015){荣俊锋}, {陈明功}, {曹晶晶},
+  {刘启飞}, and {胡祖和}}]{rongjunfeng_2015}
+{荣俊锋}, {陈明功}, {曹晶晶}, 等.
+\newblock 高浓度煤化工有机废水净化研究进展\allowbreak[J].
+\newblock 广州化工, 2015\penalty0 (4):\penalty0 14-16.
+
+\bibitem[{{王春旭}\ 等(2016){王春旭}, {刘睿}, {安路阳},
+  {孟庆锐}, and {孟庆波}}]{wangchunxu_2016}
+{王春旭}, {刘睿}, {安路阳}, 等.
+\newblock 煤化工废水生化处理技术进展\allowbreak[J].
+\newblock 燃料与化工, 2016, 47\penalty0 (4):\penalty0 4-7.
+
+\bibitem[{{姚硕}\ 等(2016){姚硕}, {刘杰}, {孔祥西}, {孙惠}, and
+  {刘志刚}}]{yaoshuo_2016}
+{姚硕}, {刘杰}, {孔祥西}, 等.
+\newblock
+  煤化工废水处理工艺技术的研究及应用进展\allowbreak[J].
+\newblock 工业水处理, 2016, 36\penalty0 (3):\penalty0 16-21.
+
+\bibitem[{{于海}\ 等(2014){于海}, {孙继涛}, and {唐峰}}]{yuhai_2014}
+{于海}, {孙继涛}, {唐峰}.
+\newblock 新型煤化工废水处理技术研究进展\allowbreak[J].
+\newblock 工业用水与废水, 2014, 45\penalty0 (3):\penalty0 1-5.
+
+\bibitem[{{张冬}\ 等(2016){张冬} and {陈晓峰}}]{zhangdong_2016}
+{张冬}, {陈晓峰}.
+\newblock 煤化工废水的处理技术及应用\allowbreak[J].
+\newblock 当代化工, 2016, 45\penalty0 (1):\penalty0 70-72.
+
+\bibitem[{曾思源(2016)}]{zengsiyuan_2016}
+曾思源.
+\newblock
+  煤化工废水的传统处理技术及新型联合技术的运用\allowbreak[J].
+\newblock 中国石油和化工标准与质量, 2016, 0\penalty0 (12):\penalty0
+  112.
+
+\bibitem[{{张志伟}(2013)}]{zhangzhiwei_2013}
+{张志伟}.
+\newblock 臭氧氧化深度处理煤化工废水的应用研究\allowbreak[D].
+\newblock 哈尔滨工业大学, 2013.
+
+\bibitem[{庄海峰\ 等(2016)庄海峰, 韩洪军, 单胜道, and
+  薛向东}]{zhuanghaifeng_2016}
+庄海峰, 韩洪军, 单胜道, 等.
+\newblock
+  缺氧/好氧移动床生物膜反应器短程脱氮工艺深度处理煤化工废水性能\allowbreak[J].
+\newblock 化工学报, 2016, 67\penalty0 (09):\penalty0 3919-3926.
+
+\end{thebibliography}

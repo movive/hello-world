@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Ajax</title>
+    <script type="text/javascript">
+        window.onload = function(){
+            const btn = document.querySelector("#btn");
+            btn.onclick = function(){
+                const keywordValue = document.querySelector("#keyword").value;
+                const script = document.createElement("script");
+                script.src = "https://suggest.taobao.com/sug?q=" + keywordValue +"&callback=xixi";
+                window["xixi"] = function(data){
+                    let liTag ="";
+                    for (let i=0;i<data.result.length;i++){
+                        const temp = data.result[i][0];
+                        liTag +="<li>"+temp+"</li>";
+                    }
+                    ulTag = document.querySelector("ul");
+                    ulTag.innerHTML=liTag;
+                }
+                const head = document.querySelector("head");
+                head.appendChild(script);
+            };
+        };
+    </script>
+</head>
+<body>
+    <input type="text" id="keyword" placeholder="请输入">
+    <input type="button" id="btn" value="查询">
+    <ul id="suggestList">
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+        <li>5</li>
+    </ul>
+</body>
+</html>

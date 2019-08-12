@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Othello</title>
+    <meta name="author" content="Nan Jiang">
+</head>
+<body>
+    <div id="container"></div>
+        <script type="text/javascript">
+            let board=[ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 1, 2, 0, 0, 0, 0,
+                        0, 0, 0, 0, 2, 1, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+            let container = document.getElementById("container");
+            render();
+            function render(){
+                container.innerHTML=""; 
+                for (let i=1;i<9;i++){
+                    for (let j=1;j<9;j++){
+                        let element = document.createElement("div")
+                        element.addEventListener("click",(event) => {
+                            if (board[i*10+j] === 0) {
+                                compare(j, i, 1, 0);
+                                compare(j, i, -1, 0);
+                                compare(j, i, 0, 1);
+                                compare(j, i, 0, -1);
+                                compare(j, i, 1, 1);
+                                compare(j, i, 1, -1);
+                                compare(j, i, -1, 1);
+                                compare(j, i, -1, -1);
+                                render();
+                            }
+                            function compare(x, y, a, b) {
+                                function calc(x,y){
+                                    return y*10+x;
+                                };
+                                let canmove = false;
+                                while (true) {
+                                    x = x + a;
+                                    y = y + b;
+                                    // if (x < 1 || x > 8 || y < 0 || y > 8) {
+                                    //     canmove = false;
+                                    //     break;
+                                    // }
+                                    if (board[calc(x,y)] === 2) {
+                                        canmove = true;
+                                    }
+                                    else if (board[calc(x, y)] === 1) {
+                                        break;
+                                    }
+                                    else if (board[calc(x,y)] === 0) {
+                                        canmove = false;
+                                        break;
+                                    }
+
+
+                                };
+                                while (canmove === true) {
+
+                                    x = x - a;
+                                    y = y - b;
+                                    board[calc(x,y)] = 1;
+                                    if (x < 1 || x > 9 || y < 1 || y > 9)
+                                        break;
+                                    if (x === j && y === i) {
+                                        break;
+                                    }
+                                };
+
+                            }
+                        });
+                        element.style = "vertical-align: bottom; border: white solid 1px;width:50px;height:50px;background-color:lightgreen;display:inline-block;"
+                        container.appendChild(element);
+                        if (board[i * 10 + j] === 1) {
+                            let zi = document.createElement("div");
+                            zi.style = "margin: 4px; border: black solid 1px; border-radius:20px; width:40px; height:40px; background-color: black; display:inline-block";
+                            element.appendChild(zi);
+                        }
+                        else if (board[i * 10 + j] === 2) {
+                            let zi = document.createElement("div");
+                            zi.style = "margin: 4px; border: black solid 1px; border-radius:20px; width:40px; height:40px; background-color: white; display:inline-block";      
+                            element.appendChild(zi);
+                        }
+                    }
+                    container.appendChild(document.createElement("br"));
+                }
+            }
+        </script>
+    
+    
+    
+</body>
+</html>

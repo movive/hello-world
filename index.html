@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Othello</title>
+    <meta name="author" content="Nan Jiang">
+</head>
+<body>
+    <div id="container"></div>
+        <script type="text/javascript">
+            let board=[ 0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 1, 2, 0, 0, 0,
+                        0, 0, 0, 2, 1, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0,
+                        0, 0, 0, 0, 0, 0, 0, 0];
+            let container = document.getElementById("container");
+            container.innerHTML=""; 
+            for (let i=0;i<8;i++){
+                for (let j=0;j<8;j++){
+                    let element = document.createElement("div")
+                    element.addEventListener("click",(event) => {
+
+                    });
+                    element.style = "vertical-align: bottom; border: white solid 1px;width:50px;height:50px;background-color:lightgreen;display:inline-block;"
+                    container.appendChild(element);
+                    if (board[i * 8 + j] === 1) {
+                        let zi = document.createElement("div");
+                        zi.style = "margin: 4px; border: black solid 1px; border-radius:20px; width:40px; height:40px; background-color: white; display:inline-block";
+                        element.appendChild(zi);
+                    }
+                    else if (board[i * 8 + j] === 2) {
+                        let zi = document.createElement("div");
+                        zi.style = "margin: 4px; border: black solid 1px; border-radius:20px; width:40px; height:40px; background-color: black; display:inline-block";      
+                        element.appendChild(zi);
+                    }
+                }
+                container.appendChild(document.createElement("br"));
+            }
+        </script>
+    
+    
+    
+</body>
+</html>

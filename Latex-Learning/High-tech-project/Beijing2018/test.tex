@@ -1,0 +1,33 @@
+\documentclass{Style/soundresearch}
+\usepackage{lipsum}
+\singlespacing
+\begin{document}
+\section{经费使用情况}
+\DTLloadrawdb[keys={a,b,c}]{actualfund}{Tex/actualfund.csv}
+\DTLloadrawdb[keys={a,b,c}]{test}{Tex/test.csv}
+%\renewcommand{\arraystretch}{1.4}
+%\zihao{6}
+%\setlength{\baselineskip}{0mm}
+\DTLgetvalue{\fund}{actualfund}{14}{1}
+\DTLgetvalue{\expense}{actualfund}{14}{2}
+\DTLgetvalue{\leftover}{actualfund}{14}{3}
+\noindent
+\begin{tabular}{|m{20mm}|m{23mm}|m{20mm}|m{24mm}|m{20mm}|m{23mm}|}
+    \hline
+    申请经费 & \fund元 & 累计支出 & \expense元 & 结余经费 & \leftover元 \\
+    \hline 
+\end{tabular}
+\\
+\begin{tabular}{|m{47.4mm}|m{48.3mm}|m{47.4mm}|}
+    支出内容 & 金额（元） & 与预算差异（元） \\
+    \hline
+    \DTLforeach{actualfund}{%
+    \a=a,\b=b,\c=c}{%
+    \a & \b & \c
+    \ifthenelse{\value{DTLrowi}=12}{\dtlbreak}{\\    \hline}
+    }     
+    \\
+    \hline
+\end{tabular}
+\clearpage
+\end{document}

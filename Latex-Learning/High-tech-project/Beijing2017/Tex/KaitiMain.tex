@@ -1,0 +1,103 @@
+\section{基本信息}
+\makebasicinfo
+\section{立项依据}
+%\vspace{10mm}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \mdfsubtitle{\subsection{研究的目的、意义（限500字以内）}}
+    \setlength{\parindent}{2em}
+    \input{Tex/content11.tex}
+    \input{Tex/content12.tex}
+\end{mdframed}
+\clearpage
+
+\begin{mdframed}
+        \subsection{国内外现状、水平和发展趋势分析（限2000字以内，附参考文献目录）}
+        \noindent\hspace{-3.5mm}\rule[5mm]{160mm}{0.1pt}
+        \setlength{\parindent}{2em}
+        \vspace{-15mm}
+        \input{Tex/content21}        
+        \bibliography{Biblio/ref}% bibliography
+\end{mdframed}
+\clearpage
+\section{项目的研究内容和目标}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \mdfsubtitle{\subsection{项目的研究内容}}
+    \input{Tex/content31} 
+    \vspace{20mm}       
+    \mdfsubtitle{\subsection{项目的研究目标}}
+    \input{Tex/content32}
+    \vspace{20mm}
+    \mdfsubtitle{\subsection{拟解决的关键问题及创新点}}
+    \input{Tex/content33}
+    \vspace*{\fill}
+\end{mdframed}
+\clearpage
+\section{拟采取的研究方案及可行性分析}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \mdfsubtitle{\subsection{拟采取的研究方案}}
+    \input{Tex/content41} 
+    \vspace{20mm}       
+    \mdfsubtitle{\subsection{可行性分析}}
+    \input{Tex/content42}
+    \vspace{20mm}  
+\end{mdframed}
+\clearpage
+\section{研究计划与进度安排}
+\begin{mdframed}
+    \input{Tex/content51.tex}
+\end{mdframed}
+\section{预期的研究成果与预计产生的经济效益、环境效益}
+\begin{mdframed}
+    \input{Tex/content61.tex}
+\end{mdframed}
+\clearpage
+\begin{landscape}
+    \DTLloadrawdb[headers={编号,姓名,性别,学历,技术职称,项目中的职务/职责},keys={a,b,c,d,e,f},noheader]{attendant}{attendant.csv}
+    \section{研发项目组人员名单}
+        \begin{tabular}{|m{15mm}<{\centering}|m{22mm}<{\centering}|m{20mm}<{\centering}|m{40mm}<{\centering}|m{40mm}<{\centering}|m{80mm}<{\centering}|}
+            \hline
+            \DTLforeach{attendant}{%
+                \a=a,\b=b,\c=c,\d=d,\e=e,\f=f}{%
+                \a & \b & \c & \d & \e & \f 
+                \DTLiflastrow{}{ \\ \hline }
+            }
+            \\
+            \hline
+        \end{tabular}
+\end{landscape}
+\clearpage
+\section{项目经费预算}
+\DTLloadrawdb[keys={a,b,c}]{fund}{Tex/fund.csv}
+%\renewcommand{\arraystretch}{1.4}
+%\zihao{6}
+%\setlength{\baselineskip}{0mm}
+\DTLgetvalue{\fundsum}{fund}{13}{3}
+\DTLgetvalue{\fundoutside}{fund}{14}{2}
+\DTLgetvalue{\fundinner}{fund}{15}{2}
+\DTLgetvalue{\fundsumall}{fund}{15}{3}
+\begin{tabular}{|m{65mm}|m{30mm}|m{50mm}|}
+    \hline
+    \multicolumn{3}{|c|}{\zihao{-3}项目经费预算表} \\
+    \multicolumn{3}{|r|}{（金额：\fundsum 万元）}  \\
+    \hline
+    \multirow{2}{65mm}{经费来源} & 外部经费：\fundoutside & \multirow{2}{55mm}{合计：\fundsumall}   \\
+    \cline{2-2}
+                                & 内部经费：\fundinner   &  \\
+    \hline
+    \DTLforeach{fund}{%
+        \a=a,\b=b,\c=c}{%
+        \a & \multicolumn{1}{c|}{\b} & \c
+    \ifthenelse{\value{DTLrowi}=12}{\dtlbreak}{\\    \hline}
+%       \DTLiflastrow{}{ \\ \hline }
+    }   
+    \\
+    \hline
+\end{tabular}
+\clearpage
+\section{立项评审表}
+\begin{mdframed}[subtitlebelowline=true,subtitleaboveline=true,subtitleaboveskip=-2mm,subtitlebelowskip=5mm,subtitleinneraboveskip=1mm,subtitleinnerbelowskip=1mm]
+    \mdfsubtitle{\subsection*{技术委员会意见}}
+    \vspace*{200mm}
+    \hspace{100mm}委员会主任：\par
+    \hspace{100mm}20\qquad年\quad月\quad日
+\end{mdframed}
