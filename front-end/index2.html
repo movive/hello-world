@@ -10,8 +10,10 @@
     .carousel{
         width: 500px;
         height: 300px;
-        overflow: hidden;
         white-space: nowrap;
+        overflow: hidden;
+        /* overflow: visible;
+        outline: solid 1px blue; */
     }
     .carousel>img{
         width: 100%;
@@ -33,29 +35,37 @@
             "https://static001.geekbang.org/resource/image/73/e4/730ea9c393def7975deceb48b3eb6fe4.jpg"];
     class Carousel {
         constructor(container){
-//            container.innerHTML="";
             this._container = container;
             this._container.classList.add("carousel");
             this._handler = null;
             this.data = null;
         }
         render() {
-            for (let d in this.data){
+            this._container.innerHTML="";
+            for (let d of this.data){
                 let e = document.createElement("img");
                 e.src = d;
-                container.appendChild(e);
+                this._container.appendChild(e);
             }
-            let children = Array.prototype.slice.call(container.children);
-            let position = 0;
+            let children = Array.prototype.slice.call(this._container.children);
+            let position = 1;
             let nextFrame = () => {
-                for (let child of children) {
-                    position ++;
-                    child.style.transform = `translate(${-100 * position}%)`;
+                //实现了四张图片的循环播放，到最后一张后所有图片退回原位
+                for (let id in children) {
+                    children[id].style.transform = `translate(${-100 * position}%)`;
                 }
+                position++;
+                position = position % children.length;
+                setTimeout(() => {
+                    nextFrame();
+                }, 3000);
+                
             }
-            this._handler = setTimeout(()=>{
-                nextFrame();
-            },3000);
+
+                setTimeout(()=>{
+                    nextFrame();
+                },3000);
+            
         }
     }
     let carousel = new Carousel(document.getElementById("container"));

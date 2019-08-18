@@ -1,0 +1,39 @@
+<div id="main" style="width:300px; height: 300px;background-color: blue;"></div>
+<script src="gesture.js"></script>
+<script>
+    let main = document.getElementById("main");
+//    let startX, startY;
+    let x=0,y=0;
+    enableGesture(main);
+    main.addEventListener("pan", event => {
+      //  console.log("panning");
+        main.style.transform = `translate(${event.dx+x}px, ${event.dy+y}px)`;
+    });
+    main.addEventListener("panend", event => {
+        x = x + event.dx;
+        y = y + event.dy;
+    });
+    main.addEventListener("pancancel", event => {
+        console.log("canceled")
+        main.style.transform = `translate(${x}, ${y})px)`;
+    });
+    main.addEventListener("pressstart", event => {
+        console.log("pressstart")
+    });
+    main.addEventListener("presscancel", event => {
+        console.log("presscancel")
+    });
+    main.addEventListener("presspan", event => {
+      //  console.log("presspan")
+    });
+    main.addEventListener("presspanend", event => {
+        console.log("presspanend")
+    });
+    main.addEventListener("press", event => {
+        console.log("press")
+    });
+    main.addEventListener("pressdisrupt", event => {
+        console.log("pressdisrupt")
+    });
+
+</script>

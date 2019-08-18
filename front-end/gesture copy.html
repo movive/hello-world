@@ -1,0 +1,77 @@
+<div id="main" style="width:300px; height: 300px;background-color: blue;"></div>
+<script>
+    let main = document.getElementById("main");
+//    let startX, startY;
+    let contexts = Object.create(null);
+    let mouseSymbol = Symbol("mouse");
+    let mouseStart = event => {
+        document.addEventListener("mousemove", mouseMove);
+        document.addEventListener("mouseup",mouseEnd);
+        contexts[mouseSymbol] = Object.create(null);
+        start(event, contexts[mouseSymbol]);
+    }
+    let mouseMove = event => {
+        move(event, contexts[mouseSymbol]);
+    }
+    let mouseEnd = event => {
+        document.removeEventListener("mousemove", mouseMove);
+        document.removeEventListener("mouseup", mouseEnd);
+        end(event, contexts[mouseSymbol]);
+        delete contexts[mouseSymbol];
+    }
+    main.addEventListener("mousedown",mouseStart);
+    let touchStart = event =>{
+        for(let touch of event.changedTouches){
+            contexts[touch.identifier] = Object.create(null);
+            start(touch,contexts[touch.identifier]);
+        }
+    }
+    let touchMove = event => {
+        for (let touch of event.changedTouches) {
+            
+            move(touch, contexts[touch.identifier]);
+        }
+    }
+    let touchEnd = event => {
+        for (let touch of event.changedTouches) {
+            end(touch, contexts[touch.identifier]);
+            delete contexts[touch.identifier];
+        }
+    }
+    let touchCancel = event => {
+        for (let touch of event.changedTouches) {
+            cancel(touch, contexts[touch.identifier]);
+        }
+    }
+    let start = (point, context) => {
+        context.startX = point.clientX;
+        context.startY = point.clientY;
+        context.isTap = true;
+        context.isPan = false;
+        console.log("context.startX",context.startX);
+    }
+    let move = (point, context) => {
+            console.log("move", point.clientX, point.clientY);
+            let dx = point.clientX - context.startX, dy = point.clientY - context.startY;
+            if (dx * dx + dy * dy > 100){
+                context.isTap = false;
+                context.isPan = true;
+            }
+    }
+    let end = (point, context) => {
+            console.log("end", point.clientX, point.clientY);
+            if(context.isTap) {
+                console.log("tap");
+            }
+            if(context.isPan) {
+                console.log("panned");
+            }
+    }
+    let cancel = (point, context) => {
+            console.log("cancel", point.clientX, point.clientY);
+    }
+    main.addEventListener("touchstart", touchStart);
+    main.addEventListener("touchmove", touchMove);
+    main.addEventListener("touchend", touchEnd);
+    main.addEventListener("touchcancel", touchCancel);
+</script>

@@ -75,8 +75,8 @@
                 event.preventDefault();
                 startX = event.clientX;
                 startTransform = - position * 500;
-                this._container.addEventListener("mousemove", move);
-                this._container.addEventListener("mouseup", end);
+                document.addEventListener("mousemove", move);
+                document.addEventListener("mouseup", end);
             }
             let move = event => {
                 event.preventDefault();
@@ -88,8 +88,8 @@
             }
 
             let end = () => {
-                this._container.removeEventListener("mousemove", move);
-                this._container.removeEventListener("mouseup", end);
+                document.removeEventListener("mousemove", move);
+                document.removeEventListener("mouseup", end);
 
                 position = - (Math.round((startTransform + event.clientX - startX) / 500));
 
